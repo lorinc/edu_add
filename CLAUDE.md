@@ -21,7 +21,7 @@ Track continuously, per student:
 
 Method: `curriculum/assessment.md`.
 
-Answer keys and scoring guides: `../edu_add_private/` (separate private repo, parent only). Never put keys or solutions in this repo; it is shared with the kids.
+Answer keys go in `key.md` files, which are gitignored: the repo is shared with the kids.
 
 Practical history activities: `curriculum/practical_history.md`.
 

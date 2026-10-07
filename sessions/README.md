@@ -2,7 +2,7 @@
 
 Daily work and assessment handouts, the material the kids returned, and a tracker of where each session stands. One folder per session.
 
-Each session folder holds the handouts. Answer keys are kept in the separate parent-only repo `edu_add_private`. Returned work goes in a `returned/` subfolder.
+Each session folder holds the handouts and a `key.md` answer key (gitignored, local only). Returned work goes in a `returned/` subfolder.
 
 | File | Description |
 |---|---|
