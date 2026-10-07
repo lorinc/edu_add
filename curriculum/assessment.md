@@ -28,7 +28,7 @@ Excluded: second language.
 2. Explain/apply task (~15 min): one open problem; gives depth.
 3. Self-assessment (~5 min): kid's own rating vs. result.
 
-Each session pack contains: items by difficulty step, branching rules, the open task, an answer key, and an observation sheet.
+Each session pack contains: items by difficulty step, branching rules, the open task, an answer key, and an observation sheet. Keys and observation sheets live in the parent-only repo `edu_add_private`, not here.
 
 ## Grounded competence
 
