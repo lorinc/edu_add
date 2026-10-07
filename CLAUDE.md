@@ -19,9 +19,9 @@ Track continuously, per student:
 - Curriculum level (subject by subject).
 - Grounded competence level.
 
-Method: `assessment.md`.
+Method: `curriculum/assessment.md`.
 
-Practical history activities: `practical_history.md`.
+Practical history activities: `curriculum/practical_history.md`.
 
 ## Reference
 
