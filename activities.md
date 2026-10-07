@@ -2,6 +2,7 @@
 
 - **[Source detective](#source-detective)**: compare how different sources tell the same history, and ask who wrote each version and why. Shows that what we read often carries the winners' agenda, without tipping into "everything is propaganda".
 - **[Power maps](#power-maps)**: map who holds power before and after a transformation, using the same fixed roles. Shows how systems change while the roles stay, and asks what it takes to change the roles themselves.
+- **[Movements that moved power](#movements-that-moved-power)**: study movements that changed the status quo, from Haiti to Havel to Hungary's mixed result. Shows what works from a power perspective (cost, defections, parallel structures) and what only feels like activism.
 
 ## Source detective
 
@@ -102,3 +103,66 @@ Without these, the activity teaches "nothing ever changes".
 - One paragraph: what changed, what stayed, why.
 - One counter-example.
 - One prediction.
+
+## Movements that moved power
+
+**Purpose:** the counterpart to power maps. Study movements that actually changed the status quo: what they did, why it worked from a power perspective, and how to tell real pressure from activism that only feels like it.
+
+Trains: strategic and responsible risk-taking, systems thinking, paradoxical thinking, respectful communication. Pairs with power maps (which roles did the movement attack?) and source detective (how is the movement remembered now?).
+
+### Cases
+
+- **Haiti and British abolition.** The 1791 Haitian uprising destroyed the richest slave colony in the world; Britain lost tens of thousands of soldiers trying to take it. Slave revolts became a real threat, not a theory. Britain abolished the slave trade in 1807; the 1831 Jamaican rising (the Baptist War, led by Samuel Sharpe) pushed the 1833 Abolition Act through. *Power's response:* slave owners got £20 million in compensation (a loan only paid off in 2015); the enslaved got nothing and years of unpaid "apprenticeship". France forced Haiti to pay an indemnity for its own freedom.
+- **Gandhi and Indian independence.** The Salt March (1930) chose a target everyone understood and created a dilemma: arrest peaceful marchers and look brutal, or ignore them and look weak. Boycotts of British cloth plus home spinning built a parallel economy. Gandhi called off a campaign in 1922 after protesters killed policemen: discipline as strategy. Independence in 1947 also came from wartime exhaustion and the 1946 navy mutiny: the threat that it could get ugly.
+- **Martin Luther King and civil rights.** The Montgomery bus boycott lasted 381 days and ran its own carpool system: a parallel structure that let people keep up the economic pressure. Birmingham (1963) deliberately created "creative tension", and the televised fire hoses changed national opinion. Malcolm X and the urban uprisings made King look like the reasonable option to people in power (the radical flank effect). His "Letter from Birmingham Jail" names the moderate who prefers order to justice.
+- **Votes for women.** In Britain, lawful suffragists and militant suffragettes (window smashing, arson, hunger strikes) worked side by side, whether they liked it or not: the radical flank again. In the US, Alice Paul's pickets outside the White House during wartime, the arrests and force-feeding turned public sympathy. Later, the second wave used consciousness-raising groups: a parallel culture where women compared notes and found that "personal" problems were shared.
+- **Havel, Charter 77 and Solidarity.** Havel's essay *The Power of the Powerless* (1978): a greengrocer puts "Workers of the world, unite!" in his shop window not because he believes it, but because everyone does; the system runs on everyone's small lies. "Living in truth" withdraws that support. Dissidents built a "parallel polis": underground publishing (samizdat), home universities, banned music (the trial of the band The Plastic People of the Universe started Charter 77). In Poland, Solidarity was an independent union with about 10 million members: a whole parallel society. In 1989 a two-hour general strike in Czechoslovakia showed the regime had lost the country.
+- **Hungary: winning isn't the end.** Hungary's 1989 exit from communism was negotiated at a roundtable, and the reform communists largely dismantled their own system. At the reburial of Imre Nagy in June 1989, young Viktor Orbán demanded that Soviet troops leave. Opening the border to Austria that summer helped bring down East Germany. The Hungarian saying: "we hoped for socialism without communists, and got capitalism with communists". Former party elites turned political power into private wealth through privatisation. Then Orbán himself, once the liberal anti-communist, built a system since 2010 with a loyal oligarchy, captured media and centralised power; in 2022 the European Parliament called Hungary an "electoral autocracy". New holders, familiar roles: run it through the power maps activity.
+
+### What works
+
+- **Imposing real costs:** boycotts, strikes, refusing to cooperate. Power needs cooperation; withdrawing it hurts.
+- **Pulling away the pillars:** regimes stand on police, army, officials, business and churches. Movements win when these defect or stop obeying (Gene Sharp's "pillars of support"). Map them with the power maps roles.
+- **Parallel structures:** carpools, home spinning, samizdat, independent unions, mutual aid. They let people survive the fight and show the alternative already works.
+- **Parallel culture:** songs, music, jokes, shared identity. Estonia's "Singing Revolution" is the extreme case.
+- **Dilemma actions:** actions where every response by power is a loss for it (the Salt March).
+- **Discipline under repression:** repression that is filmed and unanswered backfires on the regime (Selma, 1965).
+- **The radical flank:** a credible "it could get ugly" makes the moderates negotiable. It can also backfire and justify a crackdown.
+- **Numbers and staying power:** Erica Chenoweth's research found nonviolent campaigns (1900-2006) succeeded about twice as often as violent ones; active participation of around 3.5% of the population was rarely beaten. A rule of thumb, not a law.
+
+### What feels like activism but keeps the structure safe
+
+None of these is useless; the question is whether they lead to cost, capacity or defections, or replace them.
+
+- Likes, shares, hashtags, profile frames: low-cost signals with no follow-up.
+- Permitted marches on a fixed route that end on time, once. In 2003 millions marched against the Iraq war; it went ahead.
+- Petitions to bodies with no obligation to act; "consultations" and commissions that absorb energy.
+- Shopping as activism instead of organising together.
+- Corporate co-optation: rainbow logos, greenwashing, the movement's language without its demands.
+- King's "white moderate": agreeing with the goal, objecting to every method that creates pressure.
+
+### How power responds
+
+Repression, concessions to split a movement, paying off the powerful side (British slave owners), absorbing leaders, waiting it out, and rewriting the story later: King is remembered for "I Have a Dream", less for his campaigns on poverty and against the Vietnam War.
+
+### Exercises
+
+1. **Case card:** for one case, fill in: the status quo (a power map), the movement's leverage, its parallel structures and culture, its radical flank, how power responded, what changed and what stayed, and how it is remembered now.
+2. **Real or ritual:** sort a list of actions (from the news, school, social media) into: imposes cost / builds capacity / pulls a pillar / only signals.
+3. **Design a campaign:** pick a real issue they care about (school, neighbourhood). Define the ask, the decision-maker, the leverage, the allies, a parallel structure, and the likely response. Optionally run a small, safe version and review it.
+
+### Output
+
+- One case card.
+- One "real or ritual" sort with reasons.
+- One campaign plan: ask, target, leverage, risks.
+
+### Free reading
+
+- Martin Luther King, ["Letter from Birmingham Jail"](https://kinginstitute.stanford.edu/letter-birmingham-jail) (1963).
+- Mahatma Gandhi, [*Indian Home Rule*](https://www.gutenberg.org/ebooks/40461) (*Hind Swaraj*, 1909).
+- Emmeline Pankhurst, [*My Own Story*](https://www.gutenberg.org/ebooks/34856) (1914).
+- Henry David Thoreau, [*On the Duty of Civil Disobedience*](https://www.gutenberg.org/ebooks/71) (1849). The root text for Gandhi and King.
+- Gene Sharp, [*From Dictatorship to Democracy*](https://www.aeinstein.org/s/FDTD-English.pdf) and [*198 Methods of Nonviolent Action*](https://www.aeinstein.org/198-methods-of-nonviolent-action). The handbook used by movements from Serbia to Egypt.
+- Zeynep Tufekci, [*Twitter and Tear Gas*](https://www.twitterandteargas.org/) (2017). Why online movements grow fast but often lack the strength slow organising builds. Free, Creative Commons.
+- Václav Havel, *The Power of the Powerless* (1978). No free legal copy found; library.
