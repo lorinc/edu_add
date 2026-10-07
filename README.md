@@ -9,4 +9,4 @@ Tracks and pushes two teenagers' knowledge and skill levels (one on the US curri
 | [sources/](sources/) | Reference material: school curricula and free learning resources. |
 | [students/](students/) | Private per-student profiles and session logs. |
 | [CLAUDE.md](CLAUDE.md) | Project context and instructions for Claude Code. |
-| [CLAUDE.local.md](CLAUDE.local.md) | Private details: names, school, photo locations. |
+| [CLAUDE.local.md](CLAUDE.local.md) | Private details: names and photo locations. |
