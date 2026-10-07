@@ -30,4 +30,4 @@ Practical history activities: `curriculum/practical_history.md`.
 - `sources/8th_grade_UK_curriculum.md`: UK Year 8 curriculum guide (same school, previous year).
 - `curriculum/grounded_competence.md`: grounded competence skills framework.
 - `sources/free_literacy_sources.md`: free reading material (ebooks).
-- `sources/free_maths_sources.md`: free maths practice (KöMaL) and problem-solving.
+- `sources/free_maths_sources.md`: free maths courses (Oak, Khan Academy) and problem solving (KöMaL).
