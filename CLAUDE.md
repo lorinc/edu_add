@@ -27,3 +27,4 @@ Method: `assessment.md`.
 - `sources/9th_grade_UK_curriculum.md`: UK Year 9 curriculum guide (one school's syllabus).
 - `sources/8th_grade_UK_curriculum.md`: UK Year 8 curriculum guide (same school, previous year).
 - `sources/grounded_competence.md`: grounded competence skills framework.
+- `sources/free_literacy_sources.md`: free reading material (ebooks).
