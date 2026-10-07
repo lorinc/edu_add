@@ -21,6 +21,8 @@ Track continuously, per student:
 
 Method: `assessment.md`.
 
+Activities: `activities.md`.
+
 ## Reference
 
 - `sources/9th_grade_US_curriculum.md`: US 9th grade curriculum guide.

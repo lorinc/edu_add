@@ -73,6 +73,45 @@ Availability: originals are public domain, but English translations carry their 
 - **Thomas Mofolo, [*Chaka*](https://archive.org/details/chakahistoricalr00mofo)** (Lesotho), 1931 translation, scanned on Internet Archive. Novel about the Zulu king; ambition and power.
 - **Rumi and Hafez** (Persia): [*The Persian Mystics: Rumi*](https://www.gutenberg.org/ebooks/45159), Gertrude Bell's [*Poems from the Divan of Hafiz*](https://www.gutenberg.org/ebooks/74883). Poetry in older translations; dip-in.
 
+### Themed: colonialism, extractivism, class and power
+
+Ordered easy to hard. Pair with the source detective activity (`activities.md`): these texts have agendas too.
+
+**Colonialism and extractivism**
+
+- **Mark Twain, [*King Leopold's Soliloquy*](https://www.gutenberg.org/ebooks/62739)** (1905). Short satire of Belgium's rubber atrocities in the Congo; funny and horrifying.
+- **Arthur Conan Doyle, [*The Crime of the Congo*](https://www.gutenberg.org/ebooks/37712)** (1909). Sherlock Holmes's author campaigning against the same atrocities.
+- **George Orwell, [*Shooting an Elephant*](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/shooting-an-elephant/)** (1936). Short essay by a colonial policeman in Burma, trapped by his own role. Hosted by the Orwell Foundation.
+- **Bartolomé de las Casas, [*A Brief Account of the Destruction of the Indies*](https://www.gutenberg.org/ebooks/20321)** (1552). A Spanish priest's eyewitness account of the conquest of the Americas.
+- Already above: Rizal, Kartini, *Max Havelaar*, Equiano, Plaatje's *Native Life in South Africa*.
+- **Kwame Nkrumah, [*Neo-Colonialism: The Last Stage of Imperialism*](https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/)** (1965). Ghana's first president on economic control after independence. Dense; later.
+- **Walter Rodney, *How Europe Underdeveloped Africa*** (1972). No free copy found; library.
+
+**Class and power**
+
+- **H. G. Wells, [*The Time Machine*](https://www.gutenberg.org/ebooks/35)**. The Eloi and Morlocks are a class allegory; point it out.
+- **Jacob Riis, [*How the Other Half Lives*](https://www.gutenberg.org/ebooks/45502)** (1890). Photos and reporting from New York's slums. Very visual.
+- **George Orwell, [*Animal Farm*](https://gutenberg.net.au/ebooks01/0100011h.html)** (1945). Free where Orwell is public domain (e.g. Australia, UK); not yet in the US or Spain. Part of the UK Year 9 English course.
+- **Upton Sinclair, [*The Jungle*](https://www.gutenberg.org/ebooks/140)** (1906). Immigrant workers in Chicago's meatpacking plants; changed food-safety law.
+- **Jack London, [*The People of the Abyss*](https://www.gutenberg.org/ebooks/1688)** (1903). Undercover reporting from London's East End.
+- **Charles Dickens, [*Hard Times*](https://www.gutenberg.org/ebooks/786)**. Factory towns, and education reduced to "facts".
+- **Robert Tressell, [*The Ragged Trousered Philanthropists*](https://www.gutenberg.org/ebooks/3608)** (1914). Housepainters in an English town. Long; the chapter "The Great Money Trick" works on its own.
+- **W. E. B. Du Bois, [*The Souls of Black Folk*](https://www.gutenberg.org/ebooks/408)** (1903). Race, class and power in America.
+
+**Modern, released free by the authors**
+
+- **[*The Story of Stuff*](https://www.storyofstuff.org/movies/story-of-stuff/)** (Annie Leonard). 20-minute animated film on the chain from extraction to production to waste.
+- **Cory Doctorow, [*For the Win*](https://craphound.com/ftw/download/)** (2010). YA novel: teenagers in China, India and the US exploited as game "gold farmers" organise a union. Global labour and supply chains as an adventure. Creative Commons.
+- **Cory Doctorow, [*Little Brother*](https://www.gutenberg.org/ebooks/30142)** (2008). Teenagers against a surveillance state. Power rather than economics.
+- **CORE Econ, [*The Economy*](https://www.core-econ.org/the-economy/)**. Free, rigorous economics textbook; strong on inequality and power. Later, but some units work at 14.
+
+**The other side (for paradoxical thinking)**
+
+Pair each critique with the strongest free version of the opposing view, and have the kids argue both.
+
+- **Adam Smith, [*The Wealth of Nations*](https://www.gutenberg.org/ebooks/3300)** (1776). The founding text of free-market economics; also condemns the East India Company and colonial monopolies.
+- **Milton Friedman, [*Free to Choose*](https://www.freetochoose.tv/)** (1980). TV series making the case for free markets; free to stream.
+
 ### Spanish-language originals
 
 If the kids read Spanish, Gutenberg has many Spanish and Latin American originals, which widens the choice a lot.
