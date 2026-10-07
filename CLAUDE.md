@@ -11,7 +11,7 @@ Real names and school: `CLAUDE.local.md` (untracked). Never commit them.
 
 ## Goal
 
-Deliver the factual curriculum in a way that trains the skills in `sources/grounded_competence.md`.
+Deliver the factual curriculum in a way that trains the skills in `curriculum/grounded_competence.md`.
 
 ## Tracking
 
@@ -28,6 +28,6 @@ Practical history activities: `curriculum/practical_history.md`.
 - `sources/9th_grade_US_curriculum.md`: US 9th grade curriculum guide.
 - `sources/9th_grade_UK_curriculum.md`: UK Year 9 curriculum guide (one school's syllabus).
 - `sources/8th_grade_UK_curriculum.md`: UK Year 8 curriculum guide (same school, previous year).
-- `sources/grounded_competence.md`: grounded competence skills framework.
+- `curriculum/grounded_competence.md`: grounded competence skills framework.
 - `sources/free_literacy_sources.md`: free reading material (ebooks).
 - `sources/free_maths_sources.md`: free maths practice (KöMaL) and problem-solving.
