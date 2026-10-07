@@ -3,7 +3,15 @@
 - **[Source detective](#source-detective)**: compare how different sources tell the same history, and ask who wrote each version and why. Shows that what we read often carries the winners' agenda, without tipping into "everything is propaganda".
 - **[Power maps](#power-maps)**: map who holds power before and after a transformation, using the same fixed roles. Shows how systems change while the roles stay, and asks what it takes to change the roles themselves.
 - **[Movements that moved power](#movements-that-moved-power)**: study movements that changed the status quo, from Haiti to Havel to Hungary's mixed result. Shows what works from a power perspective (cost, defections, parallel structures) and what only feels like activism.
-- **[History for life](#history-for-life)**: the current global system is not humanity's natural order; it was built and is kept in place by power. Other social contracts lasted for centuries, narratives outlive facts, and history holds lessons for everyday life.
+- **[Built, not born](#built-not-born)**: today's global capitalism is not humanity's natural order; it was built and is kept in place by power, often by force.
+- **[Other social contracts](#other-social-contracts)**: very different social structures worked for centuries, so the current one is a choice.
+- **[Narrative is power](#narrative-is-power)**: a narrative is a source of power and can outlive the facts by centuries.
+- **[Your free time was fought for](#your-free-time-was-fought-for)**: the weekend, the 8-hour day and the end of child labour were won, not granted.
+- **[Money is a belief](#money-is-a-belief)**: money works because people believe in it; bubbles and crashes repeat.
+- **[Why ordinary people go along](#why-ordinary-people-go-along)**: how conformity and obedience turn ordinary people into participants.
+- **[It can't happen here](#it-cant-happen-here)**: normalcy bias, warning signs and keeping a plan B.
+- **[One person at the right moment](#one-person-at-the-right-moment)**: history isn't inevitable; one refusal can change it.
+- **[Invented normal](#invented-normal)**: much of what feels natural in daily life is recent, so it can be changed.
 - **[Knowledge is global](#knowledge-is-global)**: science and philosophy were built by many cultures together, through independent discovery and long chains of translation. Other cultures are part of "us", not "them".
 - **[Words and food are fossils](#words-and-food-are-fossils)**: the words we use and the food we eat preserve centuries of contact, trade, conquest and power.
 - **[The shape of a technological revolution](#the-shape-of-a-technological-revolution)**: big technologies follow a recurring pattern of hype, disruption, delayed gain and a fight over who benefits. AI fits the pattern and breaks it.
@@ -176,20 +184,20 @@ Repression, concessions to split a movement, paying off the powerful side (Briti
 - Zeynep Tufekci, [*Twitter and Tear Gas*](https://www.twitterandteargas.org/) (2017). Why online movements grow fast but often lack the strength slow organising builds. Free, Creative Commons.
 - Václav Havel, *The Power of the Powerless* (1978). No free legal copy found; library.
 
-## History for life
+## Built, not born
 
-**Purpose:** show that today's global capitalism is not the natural order of humanity, but a system designed and maintained by power, often by force; that other social contracts worked for centuries; and that history holds lessons directly relevant to personal life.
+**Purpose:** show that today's global capitalism is not the natural order of humanity, but a system designed and maintained by power, often by force.
 
-Trains: systems thinking, paradoxical thinking, humility, anticipatory thinking. Same guardrail as source detective: apply the questions to this section too.
+Trains: systems thinking, paradoxical thinking. Same guardrail as source detective: apply the questions here too.
 
-### The system was built, not born
+### Built
 
 - **Enclosures (England, 1500s-1800s):** common land was fenced off; people who had lived from it had to sell their labour.
 - **Colonial taxes:** "hut taxes" in Africa were payable only in cash, to force people into wage labour on mines and plantations.
 - **Slavery and plantations:** the early global economy ran on forced labour.
 - **Karl Polanyi, *The Great Transformation* (1944):** "Laissez-faire was planned; planning was not." Free markets had to be created and enforced by states.
 
-### It is maintained by force and narrative
+### Maintained
 
 - **Coups against reforming governments:** Iran 1953 (oil nationalised), Guatemala 1954 (land reform), Chile 1973.
 - **Chile, 1970-73:** Santiago was a centre of Latin American social science (CEPAL, CESO, FLACSO), working closely with government; Project Cybersyn ran the nationalised economy through a telex network and an operations room. The coup ended all of it: researchers arrested, killed or exiled. Economic policy went to the "Chicago Boys", and Chile became neoliberalism's first laboratory.
@@ -198,7 +206,13 @@ Trains: systems thinking, paradoxical thinking, humility, anticipatory thinking.
 - **The media pillar:** who owns it, who funds it through advertising, and which stories it frames as normal or extreme.
 - **The word "socialism":** the USSR used it for a bureaucratic state capitalism; both Moscow and the West benefited from the label. Test cases against criteria agreed in advance (who controls work, who owns, who gets the surplus).
 
-### Other social contracts that lasted
+**Exercise: natural or built?** Pick an economic arrangement that feels natural (money, private land, the 40-hour week, retirement age). When did it start, who set it up, who keeps it in place, who benefits?
+
+## Other social contracts
+
+**Purpose:** show that very different social structures worked for centuries, so the current one is a choice, not a necessity.
+
+Trains: paradoxical thinking, humility & unlearning, respectful communication.
 
 Study them for what worked, without romanticising: these societies had conflict and hierarchy too.
 
@@ -209,33 +223,94 @@ Study them for what worked, without romanticising: these societies had conflict 
 - **Commons:** Elinor Ostrom's Nobel-winning work on communities managing shared resources without state or market. Valencia's Water Tribunal has settled irrigation disputes in public every Thursday for about a thousand years.
 - **Worker-run economies:** Catalonia 1936 (crushed from both sides), Mondragón today, Kerala's cooperatives.
 
-### Narrative is power
+**Exercise: another contract.** Design the social contract for a group (a class, a new island colony) using one of these cases. What happens to land, work, decisions and disputes?
+
+## Narrative is power
+
+**Purpose:** show that building and spreading a narrative is a source of power in itself, and that a narrative can outlive the facts by centuries.
+
+Trains: humility & unlearning, situational awareness. Pairs with source detective.
 
 - **Nero:** popular with ordinary Romans (impostors claiming to be him drew followers after his death), hated by the senatorial elite who wrote his history. Tacitus himself says Nero was away when Rome burned and organised relief. Fiddles didn't exist. The elite's version won for 2,000 years.
-- **The Luddites:** not anti-technology; skilled workers protesting machines used to cut their wages. Relevant to AI and their own careers.
+- **The Luddites:** not anti-technology; skilled workers protesting machines used to cut their wages. Their name now means "afraid of technology".
 - **Tulip mania:** the famous bubble story is itself exaggerated.
+- **Propaganda techniques repeat:** the same methods (enemy images, repetition, slogans, fake grassroots) in 1930s posters, adverts and TikTok. Learn them once, recognise them everywhere.
 
-### Lessons for personal life
+**Exercise: myth hunt.** Find one popular historical "fact" and trace where it came from and whose interest it served.
 
-- **Your free time was fought for:** the weekend, the 8-hour day, paid holidays, the end of child labour.
-- **Money is a shared belief:** Weimar hyperinflation, bubbles from the South Sea Bubble to crypto.
-- **Ordinary people go along:** witch hunts, McCarthyism, Christopher Browning's *Ordinary Men*. Peer pressure and online pile-ons are the same mechanism.
-- **Normalcy bias:** people stay too long because "it can't happen here". Learn the warning signs; keep a plan B.
-- **Individuals matter:** Stanislav Petrov (1983) and Vasili Arkhipov (1962) each stopped a nuclear launch.
-- **What feels natural is often recent:** adolescence as a life stage, romantic marriage, the nuclear family, beauty standards. Invented things can be changed.
-- **Propaganda techniques repeat:** the same methods in 1930s posters, adverts and TikTok.
+## Your free time was fought for
 
-### Exercises
+**Purpose:** show that the weekend, the 8-hour day, paid holidays and the end of child labour were won by organised struggle, not granted, and can be lost.
 
-1. **Natural or built?** Pick something that feels natural (money, private land, the 40-hour week, school, retirement age). When did it start, who set it up, who keeps it in place, who benefits?
-2. **Another contract:** design the social contract for a group (a class, a new island colony) using one of the cases above. What happens to land, work, decisions and disputes?
-3. **Myth hunt:** find one popular historical "fact" (like Nero's fiddle) and trace where it came from and whose interest it served.
+Trains: systems thinking, temporal awareness.
 
-### Output
+- **The 8-hour day:** "eight hours for work, eight hours for rest, eight hours for what we will". May Day commemorates the Chicago Haymarket strikers of 1886.
+- **Child labour:** children worked in mines and factories until factory laws and campaigns ended it in Europe; it still exists in global supply chains.
+- **The weekend and paid holidays:** won through strikes and union bargaining in the 1900s.
 
-- One "natural or built?" trace.
-- One social contract design.
-- One myth traced to its source.
+**Exercise:** pick one right they enjoy (the weekend, a school holiday, a limit on working hours) and find who fought for it, when, and at what cost.
+
+## Money is a belief
+
+**Purpose:** show that money works only because people believe in it, and that bubbles and crashes repeat, as preparation for managing their own money.
+
+Trains: anticipatory thinking, emotional regulation, strategic risk-taking.
+
+- **Weimar hyperinflation (1923):** savings wiped out within months; workers paid twice a day.
+- **Bubbles:** the South Sea Bubble (1720), the railway mania (1840s), the dot-com crash (2000), the 2008 housing crash, crypto.
+- **The pattern:** a new story, rising prices, "this time it's different", latecomers buying at the top.
+
+**Exercise:** trace one bubble through the pattern; then name one thing they would do differently with their own savings.
+
+## Why ordinary people go along
+
+**Purpose:** show how ordinary people take part in persecution through conformity and obedience, so the kids can recognise the pressure in their own lives.
+
+Trains: emotional regulation, respectful communication, situational awareness.
+
+- **Witch hunts and McCarthyism:** accusations spread because staying silent felt safer than defending the accused.
+- **Christopher Browning, *Ordinary Men*:** ordinary German policemen became killers; most did not refuse, even when allowed to.
+- **Today:** peer pressure, group chats and online pile-ons run on the same mechanism.
+- Ties to the UK Year 9 history question "Does evil happen when good men do nothing?"
+
+**Exercise:** recall a moment when a group turned on someone. What did it cost to stay silent, and what would it have cost to speak up?
+
+## It can't happen here
+
+**Purpose:** show that people often stay too long in a deteriorating situation because "it can't happen here" (normalcy bias), and practise spotting warning signs and keeping a plan B.
+
+Trains: anticipatory thinking, situational awareness.
+
+- **Germany in the 1930s:** many Jewish families stayed, expecting things to calm down.
+- **Yugoslavia in 1991:** many people in Sarajevo did not believe a war could reach a mixed, modern city.
+- **The pattern:** gradual steps, each one "not that bad", while the window to leave closes.
+
+**Exercise:** list the warning signs from these cases; then sketch a family plan B for one realistic emergency.
+
+## One person at the right moment
+
+**Purpose:** show that history isn't inevitable, and that one person's refusal can change it.
+
+Trains: strategic risk-taking, emotional regulation.
+
+- **Vasili Arkhipov (1962):** a Soviet submarine officer who refused to approve a nuclear launch during the Cuban Missile Crisis.
+- **Stanislav Petrov (1983):** judged a missile-attack alert to be a false alarm and did not pass it on as real.
+- **Rosa Parks (1955):** one refusal, backed by an organisation ready to act on it (see [movements](#movements-that-moved-power)).
+
+**Exercise:** when would they refuse an instruction from someone in authority? Write their own line in advance.
+
+## Invented normal
+
+**Purpose:** show that much of what feels natural in daily life is recent, so invented things can be changed.
+
+Trains: paradoxical thinking, humility & unlearning.
+
+- **Adolescence** as a separate life stage is largely a 20th-century idea.
+- **Marrying for love** became the norm only in the last two centuries in most of Europe.
+- **The nuclear family** living alone is recent; most people lived in extended households.
+- **Beauty standards** change every generation.
+
+**Exercise:** pick one norm from their own life and trace when it started and who spread it.
 
 ## Knowledge is global
 
@@ -319,7 +394,7 @@ Trains: anticipatory thinking, systems thinking, strategic risk-taking.
 ### AI
 
 - **Similar:** a technology useful across almost every field; the same hype, bubbles and fight over who captures the gains.
-- **Different:** spreads in months, not decades; targets knowledge work, not manual work; owned by a handful of firms; automates language, the medium of narrative (see "narrative is power" in [History for life](#history-for-life)).
+- **Different:** spreads in months, not decades; targets knowledge work, not manual work; owned by a handful of firms; automates language, the medium of narrative (see [Narrative is power](#narrative-is-power)).
 - **For them:** which skills keep their value when routine thinking is automated? Judgement, situational awareness, systems thinking: the grounded competence skills.
 
 ### Exercises
