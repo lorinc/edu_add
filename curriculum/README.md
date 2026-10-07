@@ -4,6 +4,7 @@ How the kids are assessed, which non-academic skills are trained, and what is ta
 
 | File | Description |
 |---|---|
+| [routine.md](routine.md) | The daily routine: schedule, checkpoints, self-marking, the autonomy ladder and how to track self-control. |
 | [assessment.md](assessment.md) | The baseline assessment method: subject strands, level and depth ratings, session format and cadence. |
 | [grounded_competence.md](grounded_competence.md) | The ten grounded competence skills and strategies to develop them in 12-13-year-olds. |
 | [practical_history.md](practical_history.md) | History topics and exercises for understanding power, narrative, systems and everyday life. |

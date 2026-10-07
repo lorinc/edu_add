@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Progress Board</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <div class="topbar"><h1>Progress Board</h1><a class="switch" href="week.html">This week →</a></div>
+  <p class="sub">Every self-run day is evidence of who you're becoming. The totals only grow.</p>
+  <div class="grid" id="cards"></div>
+  <footer>A self-run day: plan by 9:00, morning done by the checkpoint, your work explained in your own words, self-marking and PE done. Rank 1 comes with 5 self-run days out of 6; rank 2 with 10 out of 12. A rank, once earned, is yours. <span id="updated"></span></footer>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const pct = (a, b) => b ? Math.round(100 * a / b) + '%' : '–';
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+const DAY = 86400000;
+const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const utc = iso => Date.UTC(+iso.slice(0, 4), +iso.slice(5, 7) - 1, +iso.slice(8, 10));
+const iso = t => new Date(t).toISOString().slice(0, 10);
+let SCHOOL_START = null;
+
+function shade(d) {
+  if (d.self_run) return 4;
+  return d.parts >= 5 ? 3 : d.parts >= 3 ? 2 : d.parts >= 1 ? 1 : 0;
+}
+
+function graph(days, i) {
+  const byDate = Object.fromEntries(days.map(d => [d.date, d]));
+  const now = new Date();
+  const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+  const first = Math.min(utc(SCHOOL_START), ...days.map(d => utc(d.date)));
+  const last = Math.max(today, ...days.map(d => utc(d.date)));
+  const monday = t => t - ((new Date(t).getUTCDay() + 6) % 7) * DAY;
+  let cells = '', prevMonth = -1;
+  for (let w = monday(first); w <= last; w += 7 * DAY) {
+    const m = new Date(w).getUTCMonth();
+    cells += `<div class="month">${m !== prevMonth ? MONTHS[m] : ''}</div>`;
+    prevMonth = m;
+    for (let k = 0; k < 5; k++) {
+      const t = w + k * DAY, key = iso(t), d = byDate[key];
+      if (t > today && !d) { cells += '<div class="cell future"></div>'; continue; }
+      const label = d ? (d.self_run ? 'self-run day' : `${d.parts} of 5 parts`) : 'no school day recorded';
+      cells += `<div class="cell ${d ? 'l' + shade(d) : ''}" title="${key}: ${label}"></div>`;
+    }
+  }
+  return `<div class="graph"><div class="labels"><span></span><span>Mon</span><span></span><span>Wed</span><span></span><span>Fri</span></div><div class="weeks" id="weeks${i}">${cells}</div></div>`;
+}
+
+function card(s, i) {
+  const n = s.now, days = s.days;
+  const mornings = days.filter(d => d.morning_done).length;
+  const tAsk = days.reduce((a, d) => a + d.teachback_asked, 0);
+  const tOk = days.reduce((a, d) => a + d.teachback_ok, 0);
+  const recent = days.slice(-5).filter(d => d.estimate_error !== null);
+  const estErr = recent.length ? Math.round(recent.reduce((a, d) => a + d.estimate_error, 0) / recent.length) + '%' : '–';
+  const nr = n.next_rank;
+  const next = nr ? `Toward rank ${nr.rank}: ${nr.have} of ${nr.days} self-run days (counting your last ${nr.of})` : 'Highest defined rank reached';
+  const topics = Object.entries(s.topics || {}).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join('');
+  const tests = s.tests.length ? s.tests.map(t => {
+    const p = Math.round(100 * t.score / t.max);
+    return `<tr><td>${esc(t.subject)}</td><td>${esc(t.topic)}<div class="bar"><div style="width:${p}%"></div></div></td><td style="text-align:right">${esc(t.score)}/${esc(t.max)}</td></tr>`;
+  }).join('') : '<tr><td colspan="3" class="empty">No tests yet</td></tr>';
+  return `<section class="card">
+    <div class="head"><div class="name">${esc(s.name)}</div><div class="level">${n.rank}<small>rank</small></div></div>
+    <div class="ladder">${[0,1,2].map(l => `<div class="rung ${l <= n.rank ? 'on' : ''}"></div>`).join('')}</div>
+    <div class="hint">${next}</div>
+    <div class="stats">
+      <div class="stat"><b>${n.self_run_total}</b><span>self-run days in total</span></div>
+      <div class="stat"><b>${n.self_run_last_10}/${Math.min(days.length, 10)}</b><span>self-run, last 10 days</span></div>
+      <div class="stat"><b>${pct(mornings, days.length)}</b><span>mornings done by the checkpoint</span></div>
+      <div class="stat"><b>${pct(tOk, tAsk)}</b><span>teach-back answers in your own words</span></div>
+      <div class="stat"><b>${estErr}</b><span>time estimate error (last 5 days)</span></div>
+      <div class="stat"><b>${days.slice(-5).reduce((a, d) => a + d.again_mistakes, 0)}</b><span>"again" mistakes caught (last 5 days)</span></div>
+    </div>
+    <h3>Every school day</h3>
+    ${graph(days, i)}
+    <div class="scale">Less <span class="cell"></span><span class="cell l1"></span><span class="cell l2"></span><span class="cell l3"></span><span class="cell l4"></span> More &nbsp;·&nbsp; darkest = a self-run day</div>
+    <h3>Self-run days, total</h3>
+    ${days.length ? `<div class="chart"><canvas id="lvl${i}"></canvas></div>` : '<span class="empty">No days yet</span>'}
+    <h3>Current topics</h3>
+    <table>${topics}</table>
+    <h3>Tests</h3>
+    <table>${tests}</table>
+  </section>`;
+}
+
+fetch('data.json').then(r => r.json()).then(data => {
+  SCHOOL_START = data.school_start;
+  document.getElementById('cards').innerHTML = data.students.map(card).join('');
+  data.students.forEach((s, i) => {
+    const w = document.getElementById('weeks' + i);
+    if (w) w.scrollLeft = w.scrollWidth;
+    if (!s.days.length || !window.Chart) return;
+    let total = 0;
+    const cumulative = s.days.map(d => total += d.self_run ? 1 : 0);
+    new Chart(document.getElementById('lvl' + i), {
+      type: 'line',
+      data: { labels: s.days.map(d => d.date.slice(5)), datasets: [{ data: cumulative, borderColor: css('--clean'), backgroundColor: css('--clean') + '33', fill: true, pointRadius: 0, borderWidth: 2, tension: .2 }] },
+      options: { maintainAspectRatio: false, plugins: { legend: { display: false } },
+        scales: { y: { min: 0, ticks: { precision: 0, color: css('--muted') }, grid: { color: css('--line') } },
+                  x: { ticks: { color: css('--muted'), maxTicksLimit: 8 }, grid: { display: false } } } }
+    });
+  });
+  const last = data.students.flatMap(s => s.days.map(d => d.date)).sort().pop();
+  if (last) document.getElementById('updated').textContent = 'Last school day recorded: ' + last + '.';
+}).catch(() => {
+  document.getElementById('cards').innerHTML = '<p class="empty">No data yet.</p>';
+});
+</script>
+</body>
+</html>

@@ -25,6 +25,10 @@ Answer keys go in `key.md` files, which are gitignored: the repo is shared with 
 
 Practical history activities: `curriculum/practical_history.md`.
 
+## Research
+
+Every research session writes its own short report in `research/` (`<date>_<topic>.md`): question, method, findings with sources, implications. Add it to `research/README.md`.
+
 ## Reference
 
 - `sources/9th_grade_US_curriculum.md`: US 9th grade curriculum guide.

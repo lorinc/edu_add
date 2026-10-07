@@ -1,0 +1,42 @@
+{
+  "pseudonyms": {
+    "us": "FishyBeing",
+    "uk": "Godzilla Caretaker"
+  },
+  "rank_after": {
+    "0": {
+      "days": 5,
+      "of": 6
+    },
+    "1": {
+      "days": 10,
+      "of": 12
+    }
+  },
+  "regain_after": 2,
+  "current_topics": {
+    "us": {
+      "Maths": "One-step equations",
+      "English": "Sherlock Holmes: reading the evidence",
+      "Science": "Earth's moving surface",
+      "History 1": "Time is invented",
+      "History 2": "Words and food are fossils"
+    },
+    "uk": {
+      "Maths": "Place value",
+      "English": "Sherlock Holmes: reading the evidence",
+      "Science": "Earth's moving surface",
+      "History 1": "Time is invented",
+      "History 2": "Words and food are fossils"
+    }
+  },
+  "public_repo": "lorinc/progress-board",
+  "public_url": "https://lorinc.github.io/progress-board/",
+  "school_start": "2026-10-12",
+  "current_week": "2026-10-12",
+  "private_repo": "lorinc/edu_add",
+  "private_names": [
+    "Matt",
+    "Sarah"
+  ]
+}

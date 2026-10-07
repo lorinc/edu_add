@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>This Week</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.week { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 8px 20px 24px; margin-top: 16px; }
+.week h1 { display: none; }
+.week h2 { font-size: 1.25rem; margin: 32px 0 10px; padding-top: 16px; border-top: 1px solid var(--line); scroll-margin-top: 12px; }
+.week h2:first-of-type { border-top: 0; }
+.week h3 { text-transform: none; letter-spacing: 0; font-size: 1.05rem; color: var(--ink); margin: 22px 0 8px; }
+.week a { color: var(--accent); }
+.week table { display: block; overflow-x: auto; margin: 8px 0 12px; }
+.week th { text-align: left; font-size: .85rem; color: var(--muted); padding: 6px 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.week td { padding: 8px; border-top: 1px solid var(--line); color: var(--ink); width: auto; min-width: 90px; }
+.week td:first-child { color: var(--ink); font-weight: 600; width: auto; white-space: nowrap; }
+.week li { margin: 4px 0; }
+.week code { background: var(--empty); padding: 1px 5px; border-radius: 4px; font-size: .9em; }
+.week blockquote { margin: 0; padding-left: 12px; border-left: 3px solid var(--line); color: var(--muted); }
+.week p > strong:first-child { color: var(--ink); }
+</style>
+</head>
+<body>
+<main>
+  <div class="topbar"><h1>{{TITLE}}</h1><a class="switch" href="index.html">← Progress board</a></div>
+  <article class="week">
+{{CONTENT}}
+  </article>
+</main>
+</body>
+</html>
