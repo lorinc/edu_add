@@ -452,6 +452,7 @@ Trains: humility & unlearning, emotional regulation.
 - **Semmelweis:** a Hungarian doctor who showed in the 1840s that hand-washing saved mothers' lives. He was ridiculed and died in an asylum; germ theory proved him right years later.
 - **Continental drift:** Alfred Wegener proposed it in 1912 and was mocked; it was accepted in the 1960s.
 - **Stomach ulcers:** Barry Marshall drank a culture of bacteria to prove they caused ulcers; he later won the Nobel Prize (2005).
+- **Katalin Karikó:** a Hungarian biochemist who worked on mRNA from the 1980s while grants were rejected and the University of Pennsylvania demoted her in 1995. With Drew Weissman she found in 2005 how to stop mRNA triggering the immune system. That work made the COVID-19 vaccines possible, and they shared the Nobel Prize in 2023. A second Hungarian, after Semmelweis, who was right for decades before anyone listened.
 - **The pattern:** new ideas often win when the old generation retires, not when it is convinced.
 
 **Exercise:** each kid names one thing they used to believe and changed their mind about. What finally changed it?
