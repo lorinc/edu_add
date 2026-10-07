@@ -1,5 +1,8 @@
 # Activities
 
+- **[Source detective](#source-detective)**: compare how different sources tell the same history, and ask who wrote each version and why. Shows that what we read often carries the winners' agenda, without tipping into "everything is propaganda".
+- **[Power maps](#power-maps)**: map who holds power before and after a transformation, using the same fixed roles. Shows how systems change while the roles stay, and asks what it takes to change the roles themselves.
+
 ## Source detective
 
 **Purpose:** show that history is usually taught from the winners' point of view, and that what we read often has a hidden agenda or an indoctrination goal behind it.
