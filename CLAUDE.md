@@ -24,6 +24,6 @@ Method: `assessment.md`.
 ## Reference
 
 - `sources/9th_grade_US_curriculum.md`: US 9th grade curriculum guide.
-- `sources/9th_grade_UK_curriculum.md`: UK Year 9 curriculum guide, target school (untracked).
-- `sources/8th_grade_UK_curriculum.md`: UK Year 8 curriculum guide, target school, previous year (untracked).
+- `sources/9th_grade_UK_curriculum.md`: UK Year 9 curriculum guide (one school's syllabus).
+- `sources/8th_grade_UK_curriculum.md`: UK Year 8 curriculum guide (same school, previous year).
 - `sources/grounded_competence.md`: grounded competence skills framework.
