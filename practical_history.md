@@ -4,7 +4,14 @@
 - **[Power maps](#power-maps)**: map who holds power before and after a transformation, using the same fixed roles. Shows how systems change while the roles stay, and asks what it takes to change the roles themselves.
 - **[Movements that moved power](#movements-that-moved-power)**: study movements that changed the status quo, from Haiti to Havel to Hungary's mixed result. Shows what works from a power perspective (cost, defections, parallel structures) and what only feels like activism.
 - **[History for life](#history-for-life)**: the current global system is not humanity's natural order; it was built and is kept in place by power. Other social contracts lasted for centuries, narratives outlive facts, and history holds lessons for everyday life.
-- **[How knowledge travels](#how-knowledge-travels)**: ideas arise independently or travel through chains of cultures; the West is a remix of Babylonian, Indian, Persian, Arab and Chinese foundations. Also the shape of technological revolutions, and how AI fits and breaks the pattern.
+- **[Knowledge is global](#knowledge-is-global)**: science and philosophy were built by many cultures together, through independent discovery and long chains of translation. Other cultures are part of "us", not "them".
+- **[Words and food are fossils](#words-and-food-are-fossils)**: the words we use and the food we eat preserve centuries of contact, trade, conquest and power.
+- **[The shape of a technological revolution](#the-shape-of-a-technological-revolution)**: big technologies follow a recurring pattern of hype, disruption, delayed gain and a fight over who benefits. AI fits the pattern and breaks it.
+- **[Disease shapes power](#disease-shapes-power)**: epidemics have shifted power between classes and continents, in opposite directions depending on who was organised.
+- **[How societies collapse](#how-societies-collapse)**: why some societies failed to adapt to climate and resource limits, and what the warning signs look like.
+- **[When science resists the truth](#when-science-resists-the-truth)**: experts rejected correct ideas for decades. How to change your own mind.
+- **[Time is invented](#time-is-invented)**: weeks, hours, time zones and punctuality are human inventions, some made for factories and railways.
+- **[What school is for](#what-school-is-for)**: where the features of their own school came from, and the myths about it.
 
 ## Source detective
 
@@ -230,17 +237,17 @@ Study them for what worked, without romanticising: these societies had conflict 
 - One social contract design.
 - One myth traced to its source.
 
-## How knowledge travels
+## Knowledge is global
 
-**Purpose:** show that similar ideas arise independently across cultures, that knowledge travels through long chains of translation, and that Europe and the West are impossible without Babylonian, Indian, Persian, Arab and Chinese foundations. Also: the recurring shape of technological revolutions, and how AI fits and breaks it.
+**Purpose:** show that science and philosophy are not Western achievements but global ones, built by many cultures, often working together. Help the kids respect other cultures and see them as part of "us", not "them": the same curiosity, the same problems, a shared inheritance.
 
-Trains: systems thinking, humility & unlearning, anticipatory thinking, temporal awareness.
+Trains: humility & unlearning, respectful communication, systems thinking.
 
-### Independent invention vs. travel
+### Same ideas, independently
 
-- **Invented separately:** farming at least 7 times, writing at least 3 times (Mesopotamia, China, Mesoamerica), pyramids, the Golden Rule.
-- **Travelled:** the flood story in Genesis descends from the Mesopotamian *Epic of Gilgamesh*.
-- The skill: telling the two apart. Similar minds facing similar problems produce one; contact produces the other.
+- Farming was invented at least 7 times, writing at least 3 times (Mesopotamia, China, Mesoamerica), zero twice (India and the Maya).
+- Pyramids, the Golden Rule, flood stories, trickster figures appear across unconnected cultures: similar minds facing similar problems.
+- The skill: telling independent invention from travel. The flood story in Genesis travelled from the Mesopotamian *Epic of Gilgamesh*.
 
 ### Chains of transmission
 
@@ -249,35 +256,136 @@ Trains: systems thinking, humility & unlearning, anticipatory thinking, temporal
 - **Numbers:** "Arabic" numerals and zero are Indian, carried to Europe by Arab scholars. Al-Khwarizmi gave us "algorithm" (his name) and "algebra" (his book title).
 - **Babylon:** the 60-minute hour, the 360° circle, centuries of astronomical records, and the "Pythagorean" theorem, used a thousand years before Pythagoras.
 - **China:** paper, printing, the compass, gunpowder.
+- **Aristotle's return:** Ibn Rushd (Averroes) of Córdoba wrote the commentaries through which Latin Europe rediscovered Aristotle; medieval scholars called him simply "the Commentator". Maimonides, a Jewish philosopher from the same city, shaped Christian thinkers too.
 
-### Words and food carry history
+### Working together
 
-- **Words:** Spanish has thousands of Arabic loanwords: *aceite, azúcar, ojalá, almohada*. English: algebra, algorithm, alcohol, zero, cipher.
-- **Food:** tomato, potato, chocolate and chilli came from the Americas; sugar and coffee spread through Arab trade.
-- **Time:** the 7-day week, Babylonian minutes, time zones invented for railway timetables.
+- **The House of Wisdom (Baghdad):** Muslim, Christian, Jewish and Zoroastrian scholars translating and arguing side by side.
+- **The Toledo School of Translators:** Jewish, Christian and Muslim scholars turning Arabic science into Latin.
+- **Timbuktu:** a West African centre of learning with hundreds of thousands of manuscripts on astronomy, law and medicine. In 2012 librarians smuggled them out to save them from militants.
 
-### The shape of a technological revolution
+### Philosophy is global too
 
-- **The pattern:** hype; disruption for a generation or two (the printing press before a century of religious wars; flat workers' wages for about 50 years of the Industrial Revolution); the real productivity gain late, once society reorganises (electricity took about 40 years, until factories were redesigned); a fight over who captures the gains (the Luddites).
-- **AI, similar:** a technology useful across almost every field; the same fight over the gains.
-- **AI, different:** spreads in months, not decades; targets knowledge work, not manual work; owned by a handful of firms; automates language, the medium of narrative (see "narrative is power" in [History for life](#history-for-life)).
-
-### More cases
-
-- **Disease and power:** the Black Death killed so many workers that survivors could demand higher wages; serfdom collapsed in Western Europe. The Columbian exchange: plants, animals and diseases crossing the Atlantic after 1492.
-- **Collapse:** the Bronze Age collapse, the Maya, the Norse in Greenland. Societies that failed to adapt to climate and resource limits.
-- **Science resisting truth:** Semmelweis, a Hungarian doctor, showed that hand-washing saved mothers' lives, was ridiculed and died in an asylum.
-- **Myths about school:** "school was designed by Prussia to make obedient workers" is half true. A myth hunt about something they live every day.
+- **China:** Confucius on relationships and duty; Laozi on balance and letting go (both on the reading list).
+- **India:** advanced logic, and Buddhist philosophy of mind and attention, centuries before modern psychology.
+- **Southern Africa:** *Ubuntu*, "I am because we are".
+- **Parallels:** the Stoics and the Buddha, unconnected, reached similar ideas about controlling your reactions.
 
 ### Exercises
 
-1. **Trace a word:** pick a word they use daily and follow it back through languages and cultures.
-2. **Trace your dinner:** where did every ingredient on the plate originally come from, and how did it get here?
-3. **Trace an idea:** follow one idea (zero, the scientific experiment, the hospital) through the chain of cultures that carried it.
-4. **Compare a revolution:** set AI against the printing press or electricity: hype, disruption, delayed gain, who captured it. Make one prediction.
+1. **Who else got there?** Pick a discovery taught as European and find earlier or parallel work elsewhere.
+2. **Trace an idea:** follow one idea (zero, the scientific experiment, the hospital) through the chain of cultures that carried it. Draw it as a map.
+3. **Live one idea:** take one idea from another culture's philosophy (Ubuntu, a Stoic or Buddhist practice) and apply it for a week. What changed?
 
-### Output
+## Words and food are fossils
 
-- One traced word or dish.
-- One idea chain, drawn as a map.
-- One revolution comparison with a prediction.
+**Purpose:** show that everyday words and dishes are like a fossil record: they preserve centuries of contact, trade, conquest and power that nobody wrote down as history.
+
+Trains: systems thinking, situational awareness.
+
+### Words
+
+- **Arabic in Spanish:** thousands of words, many starting with *al-*: *aceite, azúcar, almohada, alcalde*; *ojalá* comes from "if God wills". Place names too: Guadalquivir from *wadi al-kabir*, "the great river"; Gibraltar from *Jabal Tariq*, "Tariq's mountain".
+- **Arabic in English:** algebra, algorithm, alcohol, zero, cipher, sugar, coffee.
+- **Power in English:** after the Norman conquest of 1066, English-speaking peasants raised the animals and French-speaking lords ate them. So the animal is English (cow, pig, sheep) and the meat is French (beef, pork, mutton).
+- **Hungarian:** layers of Turkic, Slavic, German and Latin words over a Finno-Ugric core record every neighbour and occupier.
+
+### Food
+
+- **The Columbian exchange:** tomato, potato, maize, chocolate, chilli and vanilla went from the Americas to the rest of the world; wheat, cattle, horses, sugar and coffee went the other way.
+- **Spanish dishes:** rice, saffron (from Arabic *za'faran*) and oranges (from Persian *narang*) came with Arab rule.
+- **Food also records violence:** sugar ran on plantation slavery; the spice trade drove colonialism. In 1621 the Dutch East India Company massacred most of the people of the Banda Islands (Indonesia) to control nutmeg.
+
+### Exercises
+
+1. **Trace a word:** pick a word used daily and follow it back through languages and cultures.
+2. **Trace your dinner:** where did every ingredient on the plate originally come from, and how did it get here? Who did the work?
+3. **Spot power in language:** find more pairs like cow/beef, where who said which word tells you who had power.
+
+## The shape of a technological revolution
+
+**Purpose:** show that big technologies follow a recurring pattern, so the kids can recognise where AI is in that pattern and prepare for it in their own lives.
+
+Trains: anticipatory thinking, systems thinking, strategic risk-taking.
+
+### The pattern
+
+1. **Hype:** big promises, investment bubbles (the railway mania of the 1840s, the dot-com crash of 2000).
+2. **Disruption for a generation or two:** the printing press (1450s) was followed by a flood of pamphlets, the Reformation and a century of religious wars. In the Industrial Revolution, output grew while workers' wages stayed flat for about 50 years, and children worked in factories.
+3. **Delayed gain:** the real productivity gain comes once society reorganises. Electricity took about 40 years to pay off, until factories were redesigned around it.
+4. **A fight over the gains:** the Luddites, the labour movement, factory laws. Who owns the technology decides who benefits.
+5. **New gatekeepers:** each revolution creates new controllers of information: censors after the printing press, platforms after the internet.
+
+### AI
+
+- **Similar:** a technology useful across almost every field; the same hype, bubbles and fight over who captures the gains.
+- **Different:** spreads in months, not decades; targets knowledge work, not manual work; owned by a handful of firms; automates language, the medium of narrative (see "narrative is power" in [History for life](#history-for-life)).
+- **For them:** which skills keep their value when routine thinking is automated? Judgement, situational awareness, systems thinking: the grounded competence skills.
+
+### Exercises
+
+1. **Compare a revolution:** set AI against the printing press or electricity: hype, disruption, delayed gain, who captured it.
+2. **Ask a grandparent:** interview someone who lived through the arrival of the internet or mobile phones. What changed, who gained, who lost?
+3. **Predict:** one prediction about AI and work, checkable when they finish school.
+
+## Disease shapes power
+
+**Purpose:** show that epidemics shift power between classes and continents, and that the outcome depends on who is organised.
+
+Trains: systems thinking, paradoxical thinking.
+
+- **The Black Death (1347-51):** killed about a third of Europe. In the West, surviving workers could demand higher wages and serfdom collapsed. In Eastern Europe, landlords were stronger and imposed a "second serfdom" instead. Same shock, opposite outcomes.
+- **The Columbian exchange:** smallpox and other diseases killed up to 90% of the people of the Americas, which made the conquest possible.
+- **COVID-19:** what did it change in work, schooling and power? Who gained, who lost?
+
+**Exercise:** map one epidemic onto the power maps roles: who held which role before, and after?
+
+## How societies collapse
+
+**Purpose:** show how societies failed to adapt to climate change and resource limits, and what the warning signs look like, as preparation for a century of climate change.
+
+Trains: anticipatory thinking, humility & unlearning, systems thinking.
+
+- **The Bronze Age collapse (c. 1177 BC):** drought, migration and broken trade networks brought down several connected empires at once.
+- **The Classic Maya:** cities abandoned during long droughts.
+- **The Norse in Greenland:** they died out after about 450 years, while the Inuit around them survived the same cold. The Norse largely refused to adopt Inuit techniques: a failure of humility.
+- **Easter Island:** the famous "ecological suicide" story is now disputed; the population was largely destroyed after European contact and slave raids. A myth hunt.
+
+**Exercise:** list the warning signs from these cases and look for them in today's news.
+
+## When science resists the truth
+
+**Purpose:** show that experts and institutions have rejected correct ideas for decades, and practise the personal skill of changing your own mind.
+
+Trains: humility & unlearning, emotional regulation.
+
+- **Semmelweis:** a Hungarian doctor who showed in the 1840s that hand-washing saved mothers' lives. He was ridiculed and died in an asylum; germ theory proved him right years later.
+- **Continental drift:** Alfred Wegener proposed it in 1912 and was mocked; it was accepted in the 1960s.
+- **Stomach ulcers:** Barry Marshall drank a culture of bacteria to prove they caused ulcers; he later won the Nobel Prize (2005).
+- **The pattern:** new ideas often win when the old generation retires, not when it is convinced.
+
+**Exercise:** each kid names one thing they used to believe and changed their mind about. What finally changed it?
+
+## Time is invented
+
+**Purpose:** show that the way we divide and value time is a human invention, partly designed for factories and railways, so the kids can choose how they use their own time.
+
+Trains: temporal awareness, ownership of mental capacities.
+
+- **Babylon:** 60 minutes, 60 seconds; the 7-day week through Babylonian and Jewish tradition.
+- **Railways:** towns kept their own local time until railway timetables needed standard time zones (Britain in the 1840s, the US in 1883).
+- **Factories:** clocks, bells and punctuality became moral virtues when factory work needed everyone to start together.
+- **Other rhythms:** many societies organised the day by tasks, light and seasons, not hours.
+
+**Exercise:** spend a weekend day organised by tasks instead of the clock. What was easier, what was harder?
+
+## What school is for
+
+**Purpose:** look at their own school with the same questions: where each feature came from, who it serves, and which popular stories about it are myths.
+
+Trains: situational awareness, systems thinking.
+
+- **Prussia:** compulsory schooling (from 1763) aimed at literacy, national identity and loyal citizens. The popular claim that school was designed only to make obedient factory workers is half true: a good myth hunt.
+- **Features to trace:** bells, age groups, grades, homework, sitting in rows, the school year.
+
+**Exercise:** pick one feature of their school and trace its origin. Who benefits from it now? What would they change, and what would that cost?
