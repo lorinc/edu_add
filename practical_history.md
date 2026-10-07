@@ -503,6 +503,16 @@ Trains: systems thinking, anticipatory thinking, humility & unlearning.
 4. **Pushed out:** the 1920 *numerus clausus* law limited Jewish university entry, the first antisemitic law in post-war Europe; persecution followed. Much prize-winning work was done abroad, where money and labs were. Karikó and Krausz too. The brain drain continues.
 5. **Outsiders (harder to prove):** a language nobody else speaks forced Hungarians to learn others; marginal groups often think differently.
 
+### The numbers
+
+Approximate, as of 2025:
+
+- **World:** about 990 individual Nobel laureates since 1901, for about 8.2 billion people today: roughly **0.12 per million**.
+- **Hungary:** about 12-15 laureates born in Hungary or historic Hungary (depending on who is counted), for about 9.6 million people today: roughly **1.2-1.6 per million**, about **10-13 times** the world average.
+- **For comparison:** Switzerland, about 3 per million.
+
+**Task: why is this comparison not fair?** Find at least five reasons. Hints: which population is the denominator, and from which year? Historic Hungary had about 18-20 million people before 1920. Who counts as Hungarian: birthplace, citizenship, or where the prize-winning work was done? How small are the numbers, and what does one laureate more or less do to the ratio? Which countries have the universities and research money that produce Nobel prizes, and what does that do to the "world average"? Whose work does the Nobel committee tend to notice? Then: what comparison would be fairer?
+
 ### Source detective
 
 "Hungarian roots" is sometimes counted generously, including people from historic Hungary who identified as Slovak or Austrian. Per head, Switzerland, Austria and Denmark have more Nobel prizes. The Budapest concentration of those decades is real; schools and competitions are the best-supported explanation.
