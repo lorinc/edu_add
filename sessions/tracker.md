@@ -1,6 +1,6 @@
 # Session tracker
 
-One row per session and version. Status only: scores and observations go to the private student records (`students/`, untracked).
+One row per session and version. Status only: scores and observations go to the private student records (`students/`).
 
 Status: ready → handed out → returned → scored.
 

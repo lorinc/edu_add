@@ -2,7 +2,7 @@
 
 Daily work and assessment handouts, the material the kids returned, and a tracker of where each session stands. One folder per session.
 
-Each session folder holds the handouts and the parent's key. Returned work goes in a `returned/` subfolder, which is kept out of the repo because it contains the kids' own work.
+Each session folder holds the handouts and the parent's key. Returned work goes in a `returned/` subfolder.
 
 | File | Description |
 |---|---|

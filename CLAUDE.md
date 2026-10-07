@@ -7,7 +7,7 @@ Purpose: track and push the knowledge and skill levels of two kids.
 - US student: 14, US curriculum, 9th grade.
 - UK student: 13, UK curriculum, Year 9.
 
-Real names and school: `CLAUDE.local.md` (untracked). Never commit them.
+Real names and school: `CLAUDE.local.md`. The repo is private; keep it private.
 
 ## Goal
 
