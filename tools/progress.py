@@ -213,6 +213,13 @@ def week_page():
 
 def publish():
     """Rebuild the board in site_public/ (a clone of the public repo) and push it."""
+    # The week page links into the private repo: warn if those files aren't on GitHub yet.
+    private = lambda *a: subprocess.run(["git", "-C", str(ROOT), *a], capture_output=True, text=True).stdout
+    unpushed = private("status", "--porcelain", "--", "topics", "weeks", "curriculum").strip()
+    ahead = private("rev-list", "--count", "@{u}..HEAD").strip()
+    if unpushed or ahead not in ("", "0"):
+        print("Warning: some linked files aren't pushed to the private repo yet, so their links "
+              "on the week page will be broken. Commit and push edu_add.")
     out = ROOT / "site_public"
     site(out)
     git = lambda *a: subprocess.run(["git", "-C", str(out), *a], check=True, capture_output=True, text=True)
