@@ -56,4 +56,5 @@ Others (situational awareness, risk-taking, communication) are rated when eviden
 
 - `students/<name>/profile.md`: current ratings per strand and per competence.
 - `students/<name>/log.md`: session-by-session results and notes.
-- `sessions/`: session packs.
+- `sessions/`: one folder per session with handouts and key; returned work in `sessions/<session>/returned/` (untracked).
+- `sessions/tracker.md`: status of every session.
