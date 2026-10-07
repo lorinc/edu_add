@@ -21,7 +21,7 @@ Track continuously, per student:
 
 Method: `assessment.md`.
 
-Activities: `activities.md`.
+Practical history activities: `practical_history.md`.
 
 ## Reference
 

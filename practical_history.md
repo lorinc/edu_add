@@ -1,9 +1,10 @@
-# Activities
+# Practical History
 
 - **[Source detective](#source-detective)**: compare how different sources tell the same history, and ask who wrote each version and why. Shows that what we read often carries the winners' agenda, without tipping into "everything is propaganda".
 - **[Power maps](#power-maps)**: map who holds power before and after a transformation, using the same fixed roles. Shows how systems change while the roles stay, and asks what it takes to change the roles themselves.
 - **[Movements that moved power](#movements-that-moved-power)**: study movements that changed the status quo, from Haiti to Havel to Hungary's mixed result. Shows what works from a power perspective (cost, defections, parallel structures) and what only feels like activism.
 - **[History for life](#history-for-life)**: the current global system is not humanity's natural order; it was built and is kept in place by power. Other social contracts lasted for centuries, narratives outlive facts, and history holds lessons for everyday life.
+- **[How knowledge travels](#how-knowledge-travels)**: ideas arise independently or travel through chains of cultures; the West is a remix of Babylonian, Indian, Persian, Arab and Chinese foundations. Also the shape of technological revolutions, and how AI fits and breaks the pattern.
 
 ## Source detective
 
@@ -228,3 +229,55 @@ Study them for what worked, without romanticising: these societies had conflict 
 - One "natural or built?" trace.
 - One social contract design.
 - One myth traced to its source.
+
+## How knowledge travels
+
+**Purpose:** show that similar ideas arise independently across cultures, that knowledge travels through long chains of translation, and that Europe and the West are impossible without Babylonian, Indian, Persian, Arab and Chinese foundations. Also: the recurring shape of technological revolutions, and how AI fits and breaks it.
+
+Trains: systems thinking, humility & unlearning, anticipatory thinking, temporal awareness.
+
+### Independent invention vs. travel
+
+- **Invented separately:** farming at least 7 times, writing at least 3 times (Mesopotamia, China, Mesoamerica), pyramids, the Golden Rule.
+- **Travelled:** the flood story in Genesis descends from the Mesopotamian *Epic of Gilgamesh*.
+- The skill: telling the two apart. Similar minds facing similar problems produce one; contact produces the other.
+
+### Chains of transmission
+
+- **Greek medicine:** Hippocrates and Galen (Greek) → Christian scholars (Syriac) → Baghdad's House of Wisdom, 800s, Hunayn ibn Ishaq (Arabic) → Salerno (1000s) and Toledo (1100s) (Latin). Arab physicians added their own work; Ibn Sina's *Canon of Medicine* was a European university textbook into the 1600s.
+- **Light and motion:** Ibn al-Haytham's *Book of Optics* (c. 1020) introduced controlled experiments with light; in Latin it shaped Roger Bacon, Kepler and eventually Newton's *Opticks*. Ibn Sina had an early concept of inertia. Copernicus likely used al-Tusi's geometric device.
+- **Numbers:** "Arabic" numerals and zero are Indian, carried to Europe by Arab scholars. Al-Khwarizmi gave us "algorithm" (his name) and "algebra" (his book title).
+- **Babylon:** the 60-minute hour, the 360° circle, centuries of astronomical records, and the "Pythagorean" theorem, used a thousand years before Pythagoras.
+- **China:** paper, printing, the compass, gunpowder.
+
+### Words and food carry history
+
+- **Words:** Spanish has thousands of Arabic loanwords: *aceite, azúcar, ojalá, almohada*. English: algebra, algorithm, alcohol, zero, cipher.
+- **Food:** tomato, potato, chocolate and chilli came from the Americas; sugar and coffee spread through Arab trade.
+- **Time:** the 7-day week, Babylonian minutes, time zones invented for railway timetables.
+
+### The shape of a technological revolution
+
+- **The pattern:** hype; disruption for a generation or two (the printing press before a century of religious wars; flat workers' wages for about 50 years of the Industrial Revolution); the real productivity gain late, once society reorganises (electricity took about 40 years, until factories were redesigned); a fight over who captures the gains (the Luddites).
+- **AI, similar:** a technology useful across almost every field; the same fight over the gains.
+- **AI, different:** spreads in months, not decades; targets knowledge work, not manual work; owned by a handful of firms; automates language, the medium of narrative (see "narrative is power" in [History for life](#history-for-life)).
+
+### More cases
+
+- **Disease and power:** the Black Death killed so many workers that survivors could demand higher wages; serfdom collapsed in Western Europe. The Columbian exchange: plants, animals and diseases crossing the Atlantic after 1492.
+- **Collapse:** the Bronze Age collapse, the Maya, the Norse in Greenland. Societies that failed to adapt to climate and resource limits.
+- **Science resisting truth:** Semmelweis, a Hungarian doctor, showed that hand-washing saved mothers' lives, was ridiculed and died in an asylum.
+- **Myths about school:** "school was designed by Prussia to make obedient workers" is half true. A myth hunt about something they live every day.
+
+### Exercises
+
+1. **Trace a word:** pick a word they use daily and follow it back through languages and cultures.
+2. **Trace your dinner:** where did every ingredient on the plate originally come from, and how did it get here?
+3. **Trace an idea:** follow one idea (zero, the scientific experiment, the hospital) through the chain of cultures that carried it.
+4. **Compare a revolution:** set AI against the printing press or electricity: hype, disruption, delayed gain, who captured it. Make one prediction.
+
+### Output
+
+- One traced word or dish.
+- One idea chain, drawn as a map.
+- One revolution comparison with a prediction.

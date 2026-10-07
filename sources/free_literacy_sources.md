@@ -75,7 +75,7 @@ Availability: originals are public domain, but English translations carry their 
 
 ### Themed: colonialism, extractivism, class and power
 
-Ordered easy to hard. Pair with the source detective activity (`activities.md`): these texts have agendas too.
+Ordered easy to hard. Pair with the source detective activity (`practical_history.md`): these texts have agendas too.
 
 **Colonialism and extractivism**
 
