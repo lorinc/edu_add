@@ -3,6 +3,7 @@
 - **[Source detective](#source-detective)**: compare how different sources tell the same history, and ask who wrote each version and why. Shows that what we read often carries the winners' agenda, without tipping into "everything is propaganda".
 - **[Power maps](#power-maps)**: map who holds power before and after a transformation, using the same fixed roles. Shows how systems change while the roles stay, and asks what it takes to change the roles themselves.
 - **[Movements that moved power](#movements-that-moved-power)**: study movements that changed the status quo, from Haiti to Havel to Hungary's mixed result. Shows what works from a power perspective (cost, defections, parallel structures) and what only feels like activism.
+- **[History for life](#history-for-life)**: the current global system is not humanity's natural order; it was built and is kept in place by power. Other social contracts lasted for centuries, narratives outlive facts, and history holds lessons for everyday life.
 
 ## Source detective
 
@@ -122,7 +123,7 @@ Trains: strategic and responsible risk-taking, systems thinking, paradoxical thi
 ### What works
 
 - **Imposing real costs:** boycotts, strikes, refusing to cooperate. Power needs cooperation; withdrawing it hurts.
-- **Pulling away the pillars:** regimes stand on police, army, officials, business and churches. Movements win when these defect or stop obeying (Gene Sharp's "pillars of support"). Map them with the power maps roles.
+- **Pulling away the pillars:** regimes stand on police, army, officials, business, churches and the media. Movements win when these defect or stop obeying (Gene Sharp's "pillars of support"). Map them with the power maps roles.
 - **Parallel structures:** carpools, home spinning, samizdat, independent unions, mutual aid. They let people survive the fight and show the alternative already works.
 - **Parallel culture:** songs, music, jokes, shared identity. Estonia's "Singing Revolution" is the extreme case.
 - **Dilemma actions:** actions where every response by power is a loss for it (the Salt March).
@@ -166,3 +167,64 @@ Repression, concessions to split a movement, paying off the powerful side (Briti
 - Gene Sharp, [*From Dictatorship to Democracy*](https://www.aeinstein.org/s/FDTD-English.pdf) and [*198 Methods of Nonviolent Action*](https://www.aeinstein.org/198-methods-of-nonviolent-action). The handbook used by movements from Serbia to Egypt.
 - Zeynep Tufekci, [*Twitter and Tear Gas*](https://www.twitterandteargas.org/) (2017). Why online movements grow fast but often lack the strength slow organising builds. Free, Creative Commons.
 - Václav Havel, *The Power of the Powerless* (1978). No free legal copy found; library.
+
+## History for life
+
+**Purpose:** show that today's global capitalism is not the natural order of humanity, but a system designed and maintained by power, often by force; that other social contracts worked for centuries; and that history holds lessons directly relevant to personal life.
+
+Trains: systems thinking, paradoxical thinking, humility, anticipatory thinking. Same guardrail as source detective: apply the questions to this section too.
+
+### The system was built, not born
+
+- **Enclosures (England, 1500s-1800s):** common land was fenced off; people who had lived from it had to sell their labour.
+- **Colonial taxes:** "hut taxes" in Africa were payable only in cash, to force people into wage labour on mines and plantations.
+- **Slavery and plantations:** the early global economy ran on forced labour.
+- **Karl Polanyi, *The Great Transformation* (1944):** "Laissez-faire was planned; planning was not." Free markets had to be created and enforced by states.
+
+### It is maintained by force and narrative
+
+- **Coups against reforming governments:** Iran 1953 (oil nationalised), Guatemala 1954 (land reform), Chile 1973.
+- **Chile, 1970-73:** Santiago was a centre of Latin American social science (CEPAL, CESO, FLACSO), working closely with government; Project Cybersyn ran the nationalised economy through a telex network and an operations room. The coup ended all of it: researchers arrested, killed or exiled. Economic policy went to the "Chicago Boys", and Chile became neoliberalism's first laboratory.
+- **Election interventions:** Dov Levin counts 81 by the US and 36 by the USSR/Russia, 1946-2000.
+- **Not only the US:** IMF and World Bank structural adjustment; 1990s shock therapy in Eastern Europe; Greece 2015, where voters rejected austerity by 61% and got a harsher programme weeks later.
+- **The media pillar:** who owns it, who funds it through advertising, and which stories it frames as normal or extreme.
+- **The word "socialism":** the USSR used it for a bureaucratic state capitalism; both Moscow and the West benefited from the label. Test cases against criteria agreed in advance (who controls work, who owns, who gets the surplus).
+
+### Other social contracts that lasted
+
+Study them for what worked, without romanticising: these societies had conflict and hierarchy too.
+
+- **Haudenosaunee (Iroquois):** clan mothers chose and could remove chiefs; the "seventh generation" principle weighs decisions by their effect seven generations ahead.
+- **Minangkabau (Sumatra, Indonesia):** the largest matrilineal society; land and houses pass through women. Also the Mosuo (China) and Khasi (India).
+- **Bali's subak:** a thousand years of rice irrigation run through water temples. When the 1970s Green Revolution overrode it, harvests failed.
+- **Aboriginal Australian cultural burning:** tens of thousands of years of managing land with fire.
+- **Commons:** Elinor Ostrom's Nobel-winning work on communities managing shared resources without state or market. Valencia's Water Tribunal has settled irrigation disputes in public every Thursday for about a thousand years.
+- **Worker-run economies:** Catalonia 1936 (crushed from both sides), Mondragón today, Kerala's cooperatives.
+
+### Narrative is power
+
+- **Nero:** popular with ordinary Romans (impostors claiming to be him drew followers after his death), hated by the senatorial elite who wrote his history. Tacitus himself says Nero was away when Rome burned and organised relief. Fiddles didn't exist. The elite's version won for 2,000 years.
+- **The Luddites:** not anti-technology; skilled workers protesting machines used to cut their wages. Relevant to AI and their own careers.
+- **Tulip mania:** the famous bubble story is itself exaggerated.
+
+### Lessons for personal life
+
+- **Your free time was fought for:** the weekend, the 8-hour day, paid holidays, the end of child labour.
+- **Money is a shared belief:** Weimar hyperinflation, bubbles from the South Sea Bubble to crypto.
+- **Ordinary people go along:** witch hunts, McCarthyism, Christopher Browning's *Ordinary Men*. Peer pressure and online pile-ons are the same mechanism.
+- **Normalcy bias:** people stay too long because "it can't happen here". Learn the warning signs; keep a plan B.
+- **Individuals matter:** Stanislav Petrov (1983) and Vasili Arkhipov (1962) each stopped a nuclear launch.
+- **What feels natural is often recent:** adolescence as a life stage, romantic marriage, the nuclear family, beauty standards. Invented things can be changed.
+- **Propaganda techniques repeat:** the same methods in 1930s posters, adverts and TikTok.
+
+### Exercises
+
+1. **Natural or built?** Pick something that feels natural (money, private land, the 40-hour week, school, retirement age). When did it start, who set it up, who keeps it in place, who benefits?
+2. **Another contract:** design the social contract for a group (a class, a new island colony) using one of the cases above. What happens to land, work, decisions and disputes?
+3. **Myth hunt:** find one popular historical "fact" (like Nero's fiddle) and trace where it came from and whose interest it served.
+
+### Output
+
+- One "natural or built?" trace.
+- One social contract design.
+- One myth traced to its source.
