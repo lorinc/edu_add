@@ -264,12 +264,15 @@ Trains: anticipatory thinking, emotional regulation, strategic risk-taking.
 
 ## Why ordinary people go along
 
-**Purpose:** show how ordinary people take part in persecution through conformity and obedience, so the kids can recognise the pressure in their own lives.
+**Purpose:** show how ordinary people take part in persecution through conformity and obedience, and why populations give up freedom for structure and certainty, so the kids can recognise the pressure in their own lives.
 
 Trains: emotional regulation, respectful communication, situational awareness.
 
 - **Witch hunts and McCarthyism:** accusations spread because staying silent felt safer than defending the accused.
 - **Christopher Browning, *Ordinary Men*:** ordinary German policemen became killers; most did not refuse, even when allowed to.
+- **Erich Fromm, *Escape from Freedom* (1941):** freedom from old ties (church, village, guild) leaves people isolated and anxious; many escape that anxiety by submitting to an authority, conforming, or merging into a movement. Written to explain why Germans embraced Nazism.
+- **Hannah Arendt, *The Origins of Totalitarianism* (1951):** totalitarian movements recruit lonely, uprooted people who want one simple story that explains everything; when people stop telling fact from fiction, they can be led anywhere. Her *Eichmann in Jerusalem* (1963) coined "the banality of evil": great crimes carried out by thoughtless, ordinary officials doing their jobs.
+- **Else Frenkel-Brunswik,** co-author of *The Authoritarian Personality* (1950), named "intolerance of ambiguity": the need for clear-cut answers that makes people drawn to rigid leaders. The grounded competence skill of paradoxical thinking is the antidote.
 - **Today:** peer pressure, group chats and online pile-ons run on the same mechanism.
 - Ties to the UK Year 9 history question "Does evil happen when good men do nothing?"
 
