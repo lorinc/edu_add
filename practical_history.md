@@ -20,6 +20,7 @@
 - **[When science resists the truth](#when-science-resists-the-truth)**: experts rejected correct ideas for decades. How to change your own mind.
 - **[Time is invented](#time-is-invented)**: weeks, hours, time zones and punctuality are human inventions, some made for factories and railways.
 - **[What school is for](#what-school-is-for)**: where the features of their own school came from, and the myths about it.
+- **[Small country, big science](#small-country-big-science)**: why people from Hungary, a country of about 10 million, won so many Nobel prizes: schools, problem-solving culture, a boom era, and persecution that pushed talent abroad.
 
 ## Source detective
 
@@ -480,3 +481,31 @@ Trains: situational awareness, systems thinking.
 - **Features to trace:** bells, age groups, grades, homework, sitting in rows, the school year.
 
 **Exercise:** pick one feature of their school and trace its origin. Who benefits from it now? What would they change, and what would that cost?
+
+## Small country, big science
+
+**Purpose:** show why people born in Hungary, a country of about 10 million, contributed so much to science, and what that teaches about how talent is grown, and lost.
+
+Trains: systems thinking, anticipatory thinking, humility & unlearning.
+
+### The record
+
+- **Nobel prizes:** about a dozen laureates born in Hungary or historic Hungary: Szent-Györgyi (vitamin C, 1937), Hevesy (radioactive tracers, 1943), Békésy (the inner ear, 1961), Wigner (nuclear physics, 1963), Gabor (holography, 1971), Harsanyi (game theory, 1994), Olah (chemistry, 1994), Hershko (chemistry, 2004), Krausz (attosecond physics, 2023), Karikó (mRNA, 2023); in literature Kertész (2002) and Krasznahorkai (2025).
+- **"The Martians":** von Kármán, Wigner, Szilárd, Teller and von Neumann, all born in Budapest within about 30 years. The Los Alamos joke: Martians pretending to be Hungarian, since nobody could speak the language anyway.
+- **Mathematics:** Paul Erdős, George Pólya (*How to Solve It*), John Kemeny (BASIC).
+- **Inventions:** Semmelweis, Jedlik's electric motor, Bíró's ballpoint pen, Tihanyi's television camera tube, Rubik's cube; Andy Grove (Intel), Charles Simonyi (Word, Excel).
+
+### Why
+
+1. **Elite secondary schools:** the Fasori Lutheran gymnasium (Wigner, von Neumann) and the Model Gymnasium (von Kármán, Teller); teachers like László Rátz who spotted and coached talent individually.
+2. **Problem solving as a sport:** KöMaL (1894), a maths journal where students solve monthly problems and send them in; the Eötvös competition (1894), one of the world's first school maths competitions.
+3. **A boom era:** Budapest grew fast between 1867 and 1914; an emancipated Jewish middle class invested in education as the route upward; German gave access to the leading science.
+4. **Pushed out:** the 1920 *numerus clausus* law limited Jewish university entry, the first antisemitic law in post-war Europe; persecution followed. Much prize-winning work was done abroad, where money and labs were. Karikó and Krausz too. The brain drain continues.
+5. **Outsiders (harder to prove):** a language nobody else speaks forced Hungarians to learn others; marginal groups often think differently.
+
+### Source detective
+
+"Hungarian roots" is sometimes counted generously, including people from historic Hungary who identified as Slovak or Austrian. Per head, Switzerland, Austria and Denmark have more Nobel prizes. The Budapest concentration of those decades is real; schools and competitions are the best-supported explanation.
+
+**Exercise:** solve one KöMaL problem a week (see `sources/free_maths_sources.md`), then look back at how they solved it, Pólya style. And: what does a country lose when its talent leaves, and what would make it stay?
+
