@@ -38,6 +38,7 @@ Availability: originals are public domain, but English translations carry their 
 - **Jules Verne, [*Twenty Thousand Leagues Under the Sea*](https://www.gutenberg.org/ebooks/164)** (France). Submarine adventure. Skip *Around the World in Eighty Days* (stereotyped portrayals).
 - **Baroness Orczy, [*The Scarlet Pimpernel*](https://www.gutenberg.org/ebooks/60)** (UK/Hungary). Secret identity and rescues during the French Revolution.
 - **E. Nesbit, [*The Railway Children*](https://www.gutenberg.org/ebooks/1874)** (UK). Children coping after their father disappears. Some of her other books have dated depictions.
+- **Jack London, [*The Call of the Wild*](https://www.gutenberg.org/ebooks/215)** (US). A dog's survival in the Yukon gold rush; short and gripping. London's other writing includes overt racism; this book doesn't.
 - **Jerome K. Jerome, [*Three Men in a Boat*](https://www.gutenberg.org/ebooks/308)** (UK). Comic boat trip on the Thames; humour still works.
 - **Kate Douglas Wiggin, [*Rebecca of Sunnybrook Farm*](https://www.gutenberg.org/ebooks/498)** (US). Lively, Anne-like heroine.
 - **Charles Dickens, [*A Christmas Carol*](https://www.gutenberg.org/ebooks/46)** (UK). Short; the easiest way into Dickens.
@@ -80,7 +81,34 @@ If the kids read Spanish, Gutenberg has many Spanish and Latin American original
 
 ### Skipped by the selection bar
 
-- Kipling, Rider Haggard, Edgar Rice Burroughs (*Tarzan*), Hugh Lofting (*Doctor Dolittle*), Defoe (*Robinson Crusoe*), Booth Tarkington: racism built into the stories.
-- Borderline: Twain's *Huckleberry Finn* (anti-racist intent, full of slurs; better read together), *Jane Eyre* (treatment of Bertha Mason), Jack London (*The Call of the Wild* is fine; his other writing isn't).
+Listed so you can recognise them. Racism or colonialism is built into the story, not incidental.
+
+- **Rudyard Kipling, [*Kim*](https://www.gutenberg.org/ebooks/2226)** and [*Just So Stories*](https://www.gutenberg.org/ebooks/2781). *Kim* celebrates British rule in India; *Just So Stories* has a racial slur in the original text.
+- **H. Rider Haggard, [*King Solomon's Mines*](https://www.gutenberg.org/ebooks/2166)**. Africans as savages or servants to white adventurers.
+- **Edgar Rice Burroughs, [*Tarzan of the Apes*](https://www.gutenberg.org/ebooks/78)**. Explicit white superiority; Africans as savages.
+- **Hugh Lofting, [*The Story of Doctor Dolittle*](https://www.gutenberg.org/ebooks/501)**. An African prince who wants to be turned white. Later editions were edited; Gutenberg has the original.
+- **Daniel Defoe, [*Robinson Crusoe*](https://www.gutenberg.org/ebooks/521)**. Crusoe is a slave trader; Friday is presented as his natural servant.
+- **R. M. Ballantyne, [*The Coral Island*](https://www.gutenberg.org/ebooks/646)**. Pacific islanders as cannibal savages.
+- **G. A. Henty, [*By Sheer Pluck*](https://www.gutenberg.org/ebooks/8576)**. Openly racist imperial adventure; typical of Henty's many boys' books.
+- **Booth Tarkington, [*Penrod*](https://www.gutenberg.org/ebooks/402)**. Racist caricatures of Black boys.
+- **Helen Bannerman, [*The Story of Little Black Sambo*](https://www.gutenberg.org/ebooks/1330)**. Racist caricature in text and pictures.
+- **Joel Chandler Harris, [*Uncle Remus*](https://www.gutenberg.org/ebooks/2306)**. The folk tales are African American in origin, but framed as nostalgia for plantation slavery.
+- **Sax Rohmer, [*The Insidious Dr. Fu Manchu*](https://www.gutenberg.org/ebooks/173)**. Built on "Yellow Peril" fear of Asians.
+- **John Buchan, [*The Thirty-Nine Steps*](https://www.gutenberg.org/ebooks/558)**. Good thriller, but opens with an antisemitic conspiracy theory.
+- **J. M. Barrie, [*Peter Pan*](https://www.gutenberg.org/ebooks/16)**. Native Americans as "redskin" stereotypes.
+- **Jules Verne, [*Around the World in Eighty Days*](https://www.gutenberg.org/ebooks/103)**. Stereotyped Indians and Native Americans.
+- **Charles Dickens, [*Oliver Twist*](https://www.gutenberg.org/ebooks/730)**. Fagin is an antisemitic caricature.
+- **E. Nesbit, [*Five Children and It*](https://www.gutenberg.org/ebooks/778)**. One chapter of "Red Indian" stereotypes; otherwise charming.
+
+### Borderline: better read together
+
+Worth reading, but the problems need a conversation.
+
+- **Mark Twain, [*Adventures of Huckleberry Finn*](https://www.gutenberg.org/ebooks/76)**. Anti-racist in intent, full of slurs.
+- **Harriet Beecher Stowe, [*Uncle Tom's Cabin*](https://www.gutenberg.org/ebooks/203)**. Landmark anti-slavery novel that also relies on racial stereotypes. Strong for history.
+- **Charlotte Brontë, [*Jane Eyre*](https://www.gutenberg.org/ebooks/1260)**. Treatment of Bertha Mason, a Creole woman locked in the attic.
+- **Jules Verne, [*The Mysterious Island*](https://www.gutenberg.org/ebooks/1268)**. Great survival-and-engineering story (strong for systems thinking); Neb, the Black servant, is a loyal-servant stereotype.
+- **Rudyard Kipling, [*The Jungle Book*](https://www.gutenberg.org/ebooks/236)**. The Mowgli stories are fine; some others carry imperial framing.
+- **Joseph Conrad, [*Heart of Darkness*](https://www.gutenberg.org/ebooks/219)**. Critiques colonial brutality but dehumanises Africans. Older-teen level.
 
 Public domain varies by country. Everyone listed died long ago, except H. G. Wells (died 1946), who is not yet free in life-plus-80 countries such as Spain.
