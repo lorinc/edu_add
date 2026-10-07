@@ -15,7 +15,7 @@
 - **[Knowledge is global](#knowledge-is-global)**: science and philosophy were built by many cultures together, through independent discovery and long chains of translation. Other cultures are part of "us", not "them".
 - **[Words and food are fossils](#words-and-food-are-fossils)**: the words we use and the food we eat preserve centuries of contact, trade, conquest and power.
 - **[The shape of a technological revolution](#the-shape-of-a-technological-revolution)**: big technologies follow a recurring pattern of hype, disruption, delayed gain and a fight over who benefits. AI fits the pattern and breaks it.
-- **[Disease shapes power](#disease-shapes-power)**: epidemics have shifted power between classes and continents, in opposite directions depending on who was organised.
+- **[Crises open windows](#crises-open-windows)**: epidemics, wars and crashes open windows for changing power; the winner is whoever is organised with ideas ready, from below or from above.
 - **[How societies collapse](#how-societies-collapse)**: why some societies failed to adapt to climate and resource limits, and what the warning signs look like.
 - **[When science resists the truth](#when-science-resists-the-truth)**: experts rejected correct ideas for decades. How to change your own mind.
 - **[Time is invented](#time-is-invented)**: weeks, hours, time zones and punctuality are human inventions, some made for factories and railways.
@@ -403,17 +403,29 @@ Trains: anticipatory thinking, systems thinking, strategic risk-taking.
 2. **Ask a grandparent:** interview someone who lived through the arrival of the internet or mobile phones. What changed, who gained, who lost?
 3. **Predict:** one prediction about AI and work, checkable when they finish school.
 
-## Disease shapes power
+## Crises open windows
 
-**Purpose:** show that epidemics shift power between classes and continents, and that the outcome depends on who is organised.
+**Purpose:** show that crises (epidemics, wars, collapses, crashes) open windows in which power structures can change, and that who wins depends on who is organised and which ideas are ready. Elites use crises too.
 
-Trains: systems thinking, paradoxical thinking.
+Trains: systems thinking, anticipatory thinking, paradoxical thinking.
 
-- **The Black Death (1347-51):** killed about a third of Europe. In the West, surviving workers could demand higher wages and serfdom collapsed. In Eastern Europe, landlords were stronger and imposed a "second serfdom" instead. Same shock, opposite outcomes.
+> "Only a crisis, actual or perceived, produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around." (Milton Friedman)
+
+### Windows used from below
+
+- **The Black Death (1347-51):** killed about a third of Europe. In the West, surviving workers could demand higher wages and serfdom collapsed.
+- **The Great Depression:** the New Deal in the US: labour rights, social security.
+- **The Second World War:** Britain voted in the welfare state and the NHS in 1945; mass mobilisation made inequality fall across the West. Historian Walter Scheidel argues that war, revolution, state collapse and plague have been the main forces that ever reduced inequality.
+
+### Windows used from above
+
+- **The Black Death in Eastern Europe:** landlords were stronger and imposed a "second serfdom" instead. Same shock, opposite outcome.
 - **The Columbian exchange:** smallpox and other diseases killed up to 90% of the people of the Americas, which made the conquest possible.
-- **COVID-19:** what did it change in work, schooling and power? Who gained, who lost?
+- **Chile 1973 and after:** the coup became the opening for the "Chicago Boys" (see [Built, not born](#built-not-born)). Naomi Klein calls this the "shock doctrine": using a crisis to push through changes people would otherwise reject.
+- **2008:** banks were rescued; austerity followed for everyone else.
+- **COVID-19:** the largest fortunes grew fastest while many workers lost income; remote work shifted power in some jobs.
 
-**Exercise:** map one epidemic onto the power maps roles: who held which role before, and after?
+**Exercise:** pick one crisis and map it onto the power maps roles. Who was organised and ready, whose ideas were "lying around", and who held which role after?
 
 ## How societies collapse
 
