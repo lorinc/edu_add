@@ -20,6 +20,7 @@
 .week code { background: var(--empty); padding: 1px 5px; border-radius: 4px; font-size: .9em; }
 .week blockquote { margin: 0; padding-left: 12px; border-left: 3px solid var(--line); color: var(--muted); }
 .week p > strong:first-child { color: var(--ink); }
+.week a.timed:not([href]) { color: var(--muted); text-decoration: none; cursor: default; }
 </style>
 </head>
 <body>
@@ -29,5 +30,20 @@
 {{CONTENT}}
   </article>
 </main>
+<script>
+// Answer links open only during self-marking, 15:00-15:45 on the reader's clock.
+const OPEN = 15 * 60, CLOSE = 15 * 60 + 45;
+function gate() {
+  const now = new Date(), m = now.getHours() * 60 + now.getMinutes();
+  const open = m >= OPEN && m < CLOSE;
+  document.querySelectorAll('a.timed').forEach(a => {
+    a.dataset.label = a.dataset.label || a.textContent;
+    if (open) { a.href = a.dataset.href; a.textContent = a.dataset.label; a.removeAttribute('title'); }
+    else { a.removeAttribute('href'); a.textContent = 'opens 15:00-15:45'; a.title = 'Answers open during self-marking, after your attempt'; }
+  });
+}
+gate();
+setInterval(gate, 30000);
+</script>
 </body>
 </html>

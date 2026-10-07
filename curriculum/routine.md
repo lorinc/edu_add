@@ -71,7 +71,7 @@ Rules that apply to every block, and why:
 3. For every mistake write one line: what kind of mistake it was, and whether it is **new** or **again**.
 4. Write the score at the top of the day.
 
-Attempt first, open the answers second. *Why: finding your own mistakes is the fastest way to stop making them. "Again" mistakes are the most useful ones to catch.*
+Attempt first, open the answers second. On the week page, answer links only open from 15:00 to 15:45. *Why: finding your own mistakes is the fastest way to stop making them. "Again" mistakes are the most useful ones to catch.*
 
 ## Close (parent, 15 min)
 

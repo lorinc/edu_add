@@ -42,7 +42,7 @@ For the Kindle: open the EPUB link, download it, and send it with Amazon's Send 
 
 ### Maths
 
-| Who | Topic | Plan with all links | Friday self-test | Answers (only after the test) |
+| Who | Topic | Plan with all links | Friday self-test | Answers (link opens 15:00-15:45) |
 |---|---|---|---|---|
 | FishyBeing | One-step equations (Khan Academy) | [plan](../../topics/maths/us_01_one_step_equations/plan.md) | [self-test 1](../../topics/maths/us_01_one_step_equations/self_test_1.md) | [answers](../../topics/maths/us_01_one_step_equations/self_test_1_answers.md) |
 | Godzilla Caretaker | Place value (Oak National Academy) | [plan](../../topics/maths/uk_01_place_value/plan.md) | [self-test 1](../../topics/maths/uk_01_place_value/self_test_1.md) | [answers](../../topics/maths/uk_01_place_value/self_test_1_answers.md) |

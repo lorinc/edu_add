@@ -207,6 +207,9 @@ def week_page():
     text = re.sub(r"\]\((\s*)([^)\s]+)\)", link, text)
     body = markdown.markdown(text, extensions=["tables", "toc"])
     body = re.sub(r'<a href="https://', '<a target="_blank" rel="noopener" href="https://', body)
+    # Answer files: the link only opens during self-marking (soft gate, see week_template.html).
+    body = re.sub(r'<a target="_blank" rel="noopener" href="([^"]*_answers\.md)">([^<]*)</a>',
+                  r'<a class="timed" target="_blank" rel="noopener" data-href="\1">\2</a>', body)
     template = (ROOT / "site" / "week_template.html").read_text()
     return template.replace("{{TITLE}}", title).replace("{{CONTENT}}", body)
 
