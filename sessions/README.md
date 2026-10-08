@@ -12,3 +12,5 @@ Each session folder holds the handouts and a `key.md` answer key (gitignored, lo
 | [01_maths_baseline/uk.html](01_maths_baseline/uk.html) | Editable source of the UK test. |
 | [01_maths_baseline/us.html](01_maths_baseline/us.html) | Editable source of the US test. |
 | [01_maths_baseline/style.css](01_maths_baseline/style.css) | Print layout shared by both tests. |
+| [02_maths_check_us/us.pdf](02_maths_check_us/us.pdf) | Maths check 2, US: parallel form of the baseline, new tasks (3 pages, print-ready). |
+| [02_maths_check_us/us.html](02_maths_check_us/us.html) | Editable source of maths check 2. |
