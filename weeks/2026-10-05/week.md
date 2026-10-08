@@ -37,7 +37,7 @@ Phones stay with your parent until the close. Laptops face the room. *Why: apps 
 
 **PE:** together as a family, straight after the close: anything that keeps everyone out of breath for most of 30 minutes, like a run, a bike ride, a circuit or a game. Take turns choosing. Write what you did on today's day sheet, after PE.
 
-**Day sheet:** [weeks/day_sheet.md](../day_sheet.md), printed, one per day.
+**Day sheet:** [day sheet (PDF)](../day_sheet.pdf), printed, one per day. On Fridays, also [the four lines (PDF)](../friday_lines.pdf).
 
 ## Materials
 
@@ -201,7 +201,7 @@ Being stuck means you've reached the edge of what you know. That's where learnin
 
 ## Friday: four lines
 
-At the bottom of Friday's day sheet:
+On [the four lines sheet (PDF)](../friday_lines.pdf), printed:
 
 1. Something I can do now that I couldn't before.
 2. Something that was hard this week, and why it mattered.

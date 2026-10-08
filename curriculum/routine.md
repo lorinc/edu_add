@@ -176,7 +176,7 @@ Based on `research/2026-10-08_motivation_and_identity.md`.
 
 ### The week review (Friday)
 
-Each kid writes four lines on their Friday day sheet:
+Each kid writes four lines on the Friday sheet (`weeks/friday_lines.pdf`):
 
 1. Something I can do now that I couldn't before.
 2. Something that was hard this week, and why it mattered.
@@ -205,6 +205,7 @@ These are the main evidence of learning, and the main evidence that the daily wo
 | Path | What |
 |---|---|
 | `weeks/<monday's date>/week.md` | That week's plan for both kids (pseudonyms only): schedule, materials, what to do per block, what "done" looks like. Published as the "This week" page. |
-| `weeks/day_sheet.md` | Printable day sheet: plan, estimates, actuals. |
+| `weeks/day_sheet.pdf` | Printable day sheet: plan, estimates, actuals. Source: `day_sheet.html`. |
+| `weeks/friday_lines.pdf` | Printable Friday four lines. Source: `friday_lines.html`. |
 | `topics/<subject>/<topic>/` | Reading, questions, self-tests, and the parent-only `key.md`. |
 | `progress/log.csv`, `progress/tests.csv` | Daily and test records, source of the progress site. |

@@ -4,7 +4,7 @@ Days 1-2. Both kids start at rank 0, full support: checkpoint at 13:00, teach-ba
 
 ## This morning, before 09:45
 
-- Print 2 day sheets per kid (`weeks/day_sheet.md`).
+- Print 2 day sheets per kid (`weeks/day_sheet.pdf`), and one Friday four-lines sheet each (`weeks/friday_lines.pdf`).
 - Check both can sign in: Khan Academy (Matt), Oak needs no account (Sarah).
 - Decide where phones go during the day, and say it once, plainly.
 - Optional: send the EPUBs to the Kindles (links on the week page), plus *The Adventures of Sherlock Holmes* from Gutenberg for Friday and the weekend.
