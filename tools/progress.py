@@ -8,7 +8,7 @@ Usage:
 log.csv columns (one row per kid per school day):
   date             YYYY-MM-DD
   student          us | uk
-  plan_ok          Y/N  day sheet filled in by 09:00
+  plan_ok          Y/N  day sheet filled in by 10:00
   morning_done     Y/N  everything due at the checkpoint was done
   teachback_asked  number of teach-back questions asked
   teachback_ok     number explained in their own words
@@ -205,7 +205,7 @@ def week_page():
         return f"]({target})"
 
     text = re.sub(r"\]\((\s*)([^)\s]+)\)", link, text)
-    body = markdown.markdown(text, extensions=["tables", "toc"])
+    body = markdown.markdown(text, extensions=["tables", "toc", "md_in_html"])
     body = re.sub(r'<a href="https://', '<a target="_blank" rel="noopener" href="https://', body)
     # Answer files: the link only opens during self-marking (soft gate, see week_template.html).
     body = re.sub(r'<a target="_blank" rel="noopener" href="([^"]*_answers\.md)">([^<]*)</a>',

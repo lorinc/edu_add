@@ -20,24 +20,24 @@ A topic runs two weeks. Every topic has a folder in `topics/` with reading mater
 
 | Time | Kids | Parent |
 |---|---|---|
-| 08:45-08:55 | Fill in the day sheet: plan and time estimate per block | **Kickoff (10 min):** look at both day sheets together with each kid |
-| 09:00-10:00 | Core 1: maths | Work |
-| 10:15-11:15 | Core 2: English or science | Work |
-| 11:15-12:00 | Finish and review the morning; get ready for the teach-back | Work |
-| 12:00-12:20 | Lunch | **Checkpoint on full support (20 min)** |
-| 13:00-13:45 | Aux 1 | Work |
-| 14:00-14:15 | | **Checkpoint on medium or light support (15 min)** |
-| 14:15-15:00 | Aux 2 | Work |
-| 15:00-15:45 | Self-marking, day sheet: actual times, done or not | Work |
-| 16:00-16:15 | | **Close (15 min)** |
-| 16:15-16:45 | PE, together as a family | **PE with the kids (30 min)** |
-| Friday 16:00-16:45 | Week review (see below) | **Weekly close (45 min)**; family PE moves to 16:45 |
+| 09:45-09:55 | Fill in the day sheet: plan and time estimate per block | **Kickoff (10 min):** look at both day sheets together with each kid |
+| 10:00-11:00 | Core 1: maths | Work |
+| 11:15-12:15 | Core 2: English or science | Work |
+| 12:15-13:00 | Finish and review the morning; get ready for the teach-back | Work |
+| 13:00-13:20 | Lunch | **Checkpoint on full support (20 min)** |
+| 14:00-14:45 | Aux 1 | Work |
+| 15:00-15:15 | | **Checkpoint on medium or light support (15 min)** |
+| 15:15-16:00 | Aux 2 | Work |
+| 16:00-16:45 | Self-marking, day sheet: actual times, done or not | Work |
+| 17:00-17:15 | | **Close (15 min)** |
+| 17:15-17:45 | PE, together as a family | **PE with the kids (30 min)** |
+| Friday 17:00-17:45 | Week review (see below) | **Weekly close (45 min)**; family PE moves to 17:45 |
 
 Parent time: about 45 minutes a day in three fixed blocks, plus family PE straight after the close. Nothing else needs you unless the morning isn't done at the checkpoint.
 
-Breaks between blocks are 15 minutes. Lunch is 12:00-13:00.
+Breaks between blocks are 15 minutes. Lunch is 13:00-14:00.
 
-The 08:45 start is the same every day, in the same place, on purpose: a fixed cue is what turns a routine into a habit that runs without willpower.
+The 09:45 start is the same every day, in the same place, on purpose: a fixed cue is what turns a routine into a habit that runs without willpower.
 
 ## What "done" means
 
@@ -64,14 +64,14 @@ Rules that apply to every block, and why:
    - Morning not done: the rest of the day, they work next to you, and you look at each block as it ends. Say it plainly and without heat: "Let's do the afternoon side by side."
    - A shortcut: see "Shortcuts" below.
 
-## Self-marking (kids, 15:00)
+## Self-marking (kids, 16:00)
 
 1. Open the answers file for today's self-test or questions (maths: `self_test_answers.md`; other subjects: answers are checked against the reading).
 2. Mark your own work **in a different colour** (green). Do not change the original answer.
 3. For every mistake write one line: what kind of mistake it was, and whether it is **new** or **again**.
 4. Write the score at the top of the day.
 
-Attempt first, open the answers second. On the week page, answer links only open from 15:00 to 15:45. *Why: finding your own mistakes is the fastest way to stop making them. "Again" mistakes are the most useful ones to catch.*
+Attempt first, open the answers second. On the week page, answer links only open from 16:00 to 16:45. *Why: finding your own mistakes is the fastest way to stop making them. "Again" mistakes are the most useful ones to catch.*
 
 ## Close (parent, 15 min)
 
@@ -91,7 +91,7 @@ Two separate things:
 ### Self-run days
 
 A **self-run day** is a day when:
-- the day sheet was filled in by 09:00,
+- the day sheet was filled in by 10:00,
 - the morning was done by the checkpoint,
 - in the teach-back, you could explain your work in your own words (one "I'm not sure, but I think..." is fine),
 - self-marking was done,
@@ -115,9 +115,9 @@ Why "most days" and not "every day in a row": research on habits shows a single 
 
 | Support | Normally at | First checkpoint | Teach-back | Version history |
 |---|---|---|---|---|
-| **Full** | Rank 0 | 12:00, and the close | Every subject done that day | Every doc |
-| **Medium** | Rank 1 | 14:00, and the close | 2 subjects, picked at random | 2 docs, picked at random |
-| **Light** | Rank 2 | 14:00, and the close | 1 subject, picked at random, 3 questions | 1 doc, picked at random |
+| **Full** | Rank 0 | 13:00, and the close | Every subject done that day | Every doc |
+| **Medium** | Rank 1 | 15:00, and the close | 2 subjects, picked at random | 2 docs, picked at random |
+| **Light** | Rank 2 | 15:00, and the close | 1 subject, picked at random, 3 questions | 1 doc, picked at random |
 
 There's always a checkpoint. Feedback stays daily at every rank.
 

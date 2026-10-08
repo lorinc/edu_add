@@ -1,6 +1,6 @@
 # Day sheet
 
-Print one per day (or copy the table into a notebook page). Fill in the left half at 08:45, the right half at 15:00.
+Print one per day (or copy the table into a notebook page). Fill in the left half at 09:45, the right half at 16:00.
 
 Name: ______________  Date: ______________  Rank: ____  Support today: full / medium / light
 
@@ -13,7 +13,7 @@ Name: ______________  Date: ______________  Rank: ____  Support today: full / me
 | Aux 2 | | | | |
 | **Total** | | | | |
 
-Parent initials (08:45): ____  Morning done by the checkpoint: Y / N  Teach-back: ___ / ___  Self-run day: Y / N
+Parent initials (09:45): ____  Morning done by the checkpoint: Y / N  Teach-back: ___ / ___  Self-run day: Y / N
 
 Flagged today (stuck, skipped, shortcut): ______________________________
 

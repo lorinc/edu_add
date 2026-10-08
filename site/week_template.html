@@ -31,15 +31,15 @@
   </article>
 </main>
 <script>
-// Answer links open only during self-marking, 15:00-15:45 on the reader's clock.
-const OPEN = 15 * 60, CLOSE = 15 * 60 + 45;
+// Answer links open only during self-marking, 16:00-16:45 on the reader's clock.
+const OPEN = 16 * 60, CLOSE = 16 * 60 + 45;
 function gate() {
   const now = new Date(), m = now.getHours() * 60 + now.getMinutes();
   const open = m >= OPEN && m < CLOSE;
   document.querySelectorAll('a.timed').forEach(a => {
     a.dataset.label = a.dataset.label || a.textContent;
     if (open) { a.href = a.dataset.href; a.textContent = a.dataset.label; a.removeAttribute('title'); }
-    else { a.removeAttribute('href'); a.textContent = 'opens 15:00-15:45'; a.title = 'Answers open during self-marking, after your attempt'; }
+    else { a.removeAttribute('href'); a.textContent = 'opens 16:00-16:45'; a.title = 'Answers open during self-marking, after your attempt'; }
   });
 }
 gate();
