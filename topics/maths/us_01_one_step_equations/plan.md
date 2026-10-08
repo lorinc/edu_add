@@ -9,7 +9,7 @@ This starts below 9th grade on purpose. Your baseline showed that algebra is the
 - **Unit page** (all lessons, in order): https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities
 - First video: [Variables, expressions, & equations](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/v/variables-expressions-and-equations)
 - Practice: [One-step addition & subtraction equations](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-one-step-add-sub-equations/e/one_step_equations)
-- **Unit test** (end of week 2): https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/x0267d782:cc-6th-analyzing-relationships/test/cc-6th-equations-and-inequalities-unit-test
+- **Unit test** (Day 10): https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/x0267d782:cc-6th-analyzing-relationships/test/cc-6th-equations-and-inequalities-unit-test
 
 Always be signed in to Khan Academy, so your progress is saved.
 
@@ -19,16 +19,16 @@ The unit page lists the lessons in this order. Do them in order.
 
 | Day | Lessons |
 |---|---|
-| Week 1 Mon | Algebraic equations basics |
-| Week 1 Tue | One-step equations intuition |
-| Week 1 Wed | One-step addition & subtraction equations |
-| Week 1 Thu | One-step multiplication & division equations |
-| Week 1 Fri | Finding mistakes in one-step equations, then **self-test 1** |
-| Week 2 Mon | One-step equations word problems |
-| Week 2 Tue | Intro to inequalities with variables |
-| Week 2 Wed | Dependent & independent variables |
-| Week 2 Thu | Analyzing relationships between variables |
-| Week 2 Fri | **Khan unit test** |
+| Day 1 | Algebraic equations basics |
+| Day 2 | One-step equations intuition |
+| Day 3 | One-step addition & subtraction equations |
+| Day 4 | One-step multiplication & division equations |
+| Day 5 | Finding mistakes in one-step equations, then **self-test 1** |
+| Day 6 | One-step equations word problems |
+| Day 7 | Intro to inequalities with variables |
+| Day 8 | Dependent & independent variables |
+| Day 9 | Analyzing relationships between variables |
+| Day 10 | **Khan unit test** |
 
 ## How to do a lesson
 
@@ -42,6 +42,6 @@ The unit page lists the lessons in this order. Do them in order.
 
 **Done:** every exercise of the day's lesson at 5/7 or better, with screenshots, notebook photo and the "hardest" line in the doc.
 
-## Self-test 1 (Friday of week 1)
+## Self-test 1 (Day 5)
 
 `self_test_1.md`. Notebook, pencil, no calculator, no Khan, no hints, 20 minutes. Write a confidence number (1 guessing, 2 fairly sure, 3 certain) next to each answer **before** you check. Then self-mark against `self_test_1_answers.md` (see the self-marking rules in `curriculum/routine.md`), and paste a photo of the marked page into your doc.

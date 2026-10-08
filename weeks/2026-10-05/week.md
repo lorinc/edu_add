@@ -1,8 +1,8 @@
-# This week: 12-16 October
+# This week: 8-9 October, and the weekend
 
-Days 3-7: the plan carries on from Thursday and Friday. Everything you need for the week is on this page. If something here is unclear, that's our mistake, not yours: flag it at the checkpoint.
+We start on Thursday. Two school days, then a weekend story. Everything you need is on this page. If something here is unclear, that's our mistake, not yours: flag it at the checkpoint.
 
-**On this page:** [Your day](#your-day) · [Materials](#materials) · [How to do every block](#how-to-do-every-block) · [Monday](#monday-12-october-day-3) · [Tuesday](#tuesday-13-october-day-4) · [Wednesday](#wednesday-14-october-day-5) · [Thursday](#thursday-15-october-day-6) · [Friday](#friday-16-october-day-7) · [Self-run day](#what-a-self-run-day-looks-like) · [Checkpoint](#the-checkpoint) · [Mistakes](#self-marking-and-what-counts-as-a-mistake) · [Stuck?](#stuck)
+**On this page:** [Your day](#your-day) · [Materials](#materials) · [How to do every block](#how-to-do-every-block) · [Thursday](#thursday-8-october-day-1) · [Friday](#friday-9-october-day-2) · [Weekend reading](#weekend-reading) · [Self-run day](#what-a-self-run-day-looks-like) · [Checkpoint](#the-checkpoint) · [Mistakes](#self-marking-and-what-counts-as-a-mistake) · [Stuck?](#stuck)
 
 ## Your day
 
@@ -11,7 +11,7 @@ Days 3-7: the plan carries on from Thursday and Friday. Everything you need for 
 | 08:45 | Day sheet: write your plan and a time estimate for each block. Show it to your parent. |
 | 09:00-10:00 | **Maths** |
 | 10:00-10:15 | Break |
-| 10:15-11:15 | **English** (Mon, Wed, Fri) or **Science** (Tue, Thu) |
+| 10:15-11:15 | **Science** (Thu) or **English** (Fri) |
 | 11:15-12:00 | Finish and review the morning. Reread your answers: can you say each one without looking? |
 | 12:00-13:00 | Lunch. **Checkpoint** at 12:00. |
 | 13:00-13:45 | **History 1:** Time is invented |
@@ -49,7 +49,7 @@ For the Kindle: open the EPUB link, download it, and send it with Amazon's Send 
 
 ### Your Google Docs
 
-You created these on Thursday 8 October. All written work goes in them.
+Create these on Thursday at 08:45 and share each with your parent (edit access). All written work goes in them.
 
 - `Maths - One-step equations` (FishyBeing) or `Maths - Place value` (Godzilla Caretaker)
 - `English - Holmes`
@@ -57,7 +57,7 @@ You created these on Thursday 8 October. All written work goes in them.
 - `History - Time is invented`
 - `History - Words and food`
 
-Every day, start with a heading in each doc you use: `Day N - date`, for example `Day 3 - 12 Oct`.
+Every day, start with a heading in each doc you use: `Day N - date`, for example `Day 1 - 8 Oct`.
 
 ## How to do every block
 
@@ -82,60 +82,42 @@ A good answer says **why**, not just **what**, and uses a real example from the 
 
 **Done means everything in the "Done when" column is in your doc by the checkpoint.**
 
-## Monday 12 October (Day 3)
+## Thursday 8 October (Day 1)
+
+**08:45, first day only (20 minutes):** create your five Google Docs and share them with your parent. Then the day sheet. Maths starts when the docs are done.
 
 | Block | What to do | Done when |
 |---|---|---|
-| Maths | **FishyBeing:** *One-step addition & subtraction equations*. **Godzilla Caretaker:** Oak lesson 4. Details in your [plan](#maths). | Scores, screenshots, notebook photo, "hardest" line. |
-| English | Finish *The Red-Headed League*. | Answer **Q1**, **Q3** and **Q4**. Then: was your Friday guess right? One or two sentences. |
-| History 1 | Read **Part 3** (Clocks and bells). | 3-5 key ideas; answer **Q5**. |
-| History 2 | Read **Part 3** (Arabic, and the road of knowledge). | 3-5 key ideas; answer **Q5** and **Q6**. |
+| Maths | **FishyBeing:** Khan lesson *Algebraic equations basics*. **Godzilla Caretaker:** Oak lessons 1 and 2. Details in your [plan](#maths). | FishyBeing: every exercise at 5/7 or better. Godzilla Caretaker: starter and exit quiz scores for both lessons. Both: screenshots, notebook photo, one line "what was hardest today, and why". |
+| Science | Read **Part 1** of the [science reading](../../topics/science/01_earths_moving_surface/reading.md) (Inside the Earth). | 3-5 key ideas; answer **Q1**, **Q2** and **Q3**. |
+| History 1 | Read **Part 1** of [Time is invented](../../topics/practical_history/01_time_is_invented/reading.md) (Why 60 minutes, why 24 hours?). | 3-5 key ideas; answer **Q1** and **Q2**. |
+| History 2 | Read **Part 1** of [Words and food](../../topics/practical_history/02_words_and_food/reading.md) (How words travel). Look up one word you like on [Etymonline](https://www.etymonline.com). | 3-5 key ideas; answer **Q1** and **Q2**; your word's journey in one sentence. |
 | 15:00 | Self-marking (see [Mistakes](#self-marking-and-what-counts-as-a-mistake)), then the day sheet. | Day sheet complete. |
-| PE | 16:15, together as a family. | On the next day\'s sheet. |
+| PE | 16:15, together as a family. | On the next day's sheet. |
 
-## Tuesday 13 October (Day 4)
-
-| Block | What to do | Done when |
-|---|---|---|
-| Maths | **FishyBeing:** *One-step multiplication & division equations*. **Godzilla Caretaker:** Oak lesson 5. | Scores, screenshots, notebook photo, "hardest" line. |
-| Science | Read **Part 2** (The idea nobody believed). | 3-5 key ideas; answer **Q4** and **Q5**. |
-| History 1 | Read **Part 4** (Railway time). | 3-5 key ideas; answer **Q6** and **Q7**. |
-| History 2 | Read **Part 4** (Tea, ketchup and loot). | 3-5 key ideas; answer **Q7** and **Q8**. |
-| 15:00 | Self-marking, day sheet. | Day sheet complete. |
-| PE | 16:15, together as a family. | On the next day\'s sheet. |
-
-## Wednesday 14 October (Day 5)
+## Friday 9 October (Day 2)
 
 | Block | What to do | Done when |
 |---|---|---|
-| Maths | **FishyBeing:** *Finding mistakes in one-step equations* (30 min), then **self-test 1** (20 min), then mark it. **Godzilla Caretaker:** **self-test 1** (20 min), mark it, then Oak lesson 6 (30 min). Self-test rules: notebook and pencil, no calculator, no website, and a confidence number (1 guessing, 2 fairly sure, 3 certain) next to each answer **before** you open the answers. | Self-test photo, marked in green, confidence numbers, a "new/again" line for each mistake. Plus the lesson's scores and notebook photo. |
-| English | Read Part 2 of the [English reading](../../topics/english/01_holmes_evidence/reading.md) (How Holmes thinks). Then read *The Adventure of the Blue Carbuncle* (story 7) up to the end of Henry Baker's visit (he leaves with his new goose). | 3-5 key ideas from Part 2; answer **Q6** and **Q7**. |
-| History 1 | **Task 1: your time audit** ([tasks](../../topics/practical_history/01_time_is_invented/tasks.md)). Use your day sheets from Thursday 8 October on. | Everything on Task 1's "Done" line. |
-| History 2 | **Task 1: trace five words** ([tasks](../../topics/practical_history/02_words_and_food/tasks.md)). | Everything on Task 1's "Done" line. |
-| 15:00 | Self-marking, day sheet. | Day sheet complete. |
-| PE | 16:15, together as a family. | On the next day\'s sheet. |
+| Maths | **FishyBeing:** *One-step equations intuition*. **Godzilla Caretaker:** Oak lesson 3. | As Thursday: scores, screenshots, notebook photo, "hardest" line. |
+| English | Read Part 1 of the [English reading](../../topics/english/01_holmes_evidence/reading.md) (Holmes's world). Then read *The Red-Headed League* (story 2 in the book) from the start up to Holmes saying "It is quite a three pipe problem". | 3-5 bullet points from Part 1; answer **Q2**; two sentences: what do you think is going on, and why? |
+| History 1 | Read **Part 2** (The week, and the weeks that failed). | 3-5 key ideas; answer **Q3** and **Q4**. |
+| History 2 | Read **Part 2** (1066: cows in English, beef in French). | 3-5 key ideas; answer **Q3** and **Q4**. |
+| 15:00 | Self-marking, day sheet, then the [four Friday lines](#friday-four-lines). After two days, short lines are fine. | Day sheet and four lines complete. |
+| PE | **16:45 on Fridays**, together as a family. | On the next day's sheet. |
 
-## Thursday 15 October (Day 6)
+## Weekend reading
 
-| Block | What to do | Done when |
-|---|---|---|
-| Maths | **FishyBeing:** *One-step equations word problems*. **Godzilla Caretaker:** Oak lesson 7. | Scores, screenshots, notebook photo, "hardest" line. |
-| Science | Read **Part 3** (Plate boundaries). | 3-5 key ideas; answer **Q6**, **Q7** and **Q8**. |
-| History 1 | Read **Part 5** (Time is money). | 3-5 key ideas; answer **Q8** and **Q9**. |
-| History 2 | Read **Part 5** (The Columbian exchange). | 3-5 key ideas; answer **Q9** and **Q10**. |
-| 15:00 | Self-marking, day sheet. | Day sheet complete. |
-| PE | 16:15, together as a family. | On the next day\'s sheet. |
+**[A Scandal in Bohemia](https://www.gutenberg.org/ebooks/1661)**: story 1 in *The Adventures of Sherlock Holmes*, the same book as the English topic. About an hour. Read it on the Kindle or online, whenever suits you on Saturday or Sunday.
 
-## Friday 16 October (Day 7)
+No writing. Bring two things to say at Monday's 08:45:
 
-| Block | What to do | Done when |
-|---|---|---|
-| Maths | **FishyBeing:** *Intro to inequalities with variables*. **Godzilla Caretaker:** Oak lesson 8. | Scores, screenshots, notebook photo, "hardest" line. |
-| English | Finish *The Blue Carbuncle*. | Answer **Q8** and **Q9**. |
-| History 1 | Read **Part 6** (Other clocks: tasks, bodies and politics). | 3-5 key ideas; answer **Q10** and **Q11**. |
-| History 2 | Read **Part 6** (Food also records violence). | 3-5 key ideas; answer **Q11** and **Q12**. |
-| 15:00 | Self-marking, day sheet, then the [four Friday lines](#friday-four-lines). | Day sheet and four lines complete. |
-| PE | **16:45 on Fridays**, together as a family. | On the next day\'s sheet. |
+1. Early on, Holmes tells Watson "You see, but you do not observe." What does he mean? Use the example he gives.
+2. Holmes doesn't win every round in this story. Who outwits him, and how?
+
+*Why: this story shows Holmes's method more plainly than any other, and Monday's English and next week's "How Holmes thinks" build on it. It's also the first half of question 10 (observing vs. inferring).*
+
+**Optional:** the [weekend task](../../topics/practical_history/01_time_is_invented/tasks.md#weekend-optional) from Time is invented: half a day run by tasks instead of the clock.
 
 ## What a self-run day looks like
 
@@ -216,6 +198,7 @@ At the bottom of Friday's day sheet:
 
 Line 4 is yours. Nobody corrects it.
 
+
 ## Next week
 
-Week B: science on Mon, Wed, Fri; English on Tue, Thu. **Friday 23 October is test day:** each block starts with a 30-minute test of 4 of the 12 questions, handwritten, no notes. Start practising the questions from Wednesday: look, close, write.
+Monday 12 October is Day 3, and the plan carries straight on. Same day, same times. **Friday 23 October is test day:** each block starts with a 30-minute test of 4 of the 12 questions, handwritten, no notes.
