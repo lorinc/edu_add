@@ -5,9 +5,9 @@ Days 3-7: the plan carries on from Thursday and Friday. Everything you need for 
 <details markdown="1">
 <summary><strong>How this works (open me)</strong></summary>
 
-**The deal:** your parent gives you the material and the plan. You do the work. Every day you run yourself earns you more control over your own day. On a day it doesn't work, your parent sits closer and helps you get it working again. That's help, never punishment.
+**The deal:** your parent gives you the material and the plan. You do the work. Every day you run yourself earns you more control over your own day. On a day it doesn't work, your parent sits closer and helps you get it working again.
 
-- **The day:** plan at 09:45. Maths, then English or science. [Checkpoint](#the-checkpoint) at 13:00. Two history blocks, self-marking at 16:00, close at 17:00, then PE. [Full timetable](#your-day).
+- **The day:** plan at 09:45. Maths, then English or science. **[Checkpoint](#the-checkpoint) at 13:00.** Two history blocks, self-marking at 16:00, close at 17:00, then PE. [Full timetable](#your-day).
 - **Self-run day:** plan written by 10:00, morning done by the checkpoint, you can explain your work in your own words, self-marking and PE done. [The checklist](#what-a-self-run-day-looks-like).
 - **Ranks:** 5 self-run days out of 6 earns rank 1. 10 out of 12 earns rank 2. Each rank gives you more choices and less checking. A rank never goes down. [What each rank gives you](../../curriculum/routine.md#ranks).
 - **Your level in each subject:** each topic ends with a self-test, and the score goes on the [progress board](index.html). The teach-back shows whether you understand it, not only whether you remember it.
