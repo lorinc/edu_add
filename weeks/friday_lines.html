@@ -8,14 +8,16 @@
 <style>
   @page { size: A4; margin: 12mm 14mm; }
   * { box-sizing: border-box; }
-  body { margin: 0; font: 11pt/1.35 system-ui, "Segoe UI", sans-serif; color: #111; }
+  html, body { height: 100%; }
+  body { display: flex; flex-direction: column; margin: 0; font: 11pt/1.35 system-ui, "Segoe UI", sans-serif; color: #111; }
   h1 { font-size: 18pt; margin: 0 0 1mm; }
   .note { margin: 0 0 5mm; color: #444; font-size: 10pt; }
   .fields { display: flex; gap: 6mm; margin-bottom: 4mm; align-items: flex-end; }
   .field { display: flex; align-items: flex-end; gap: 2mm; white-space: nowrap; }
   .line { border-bottom: 1px solid #111; height: 9mm; }
   h2 { font-size: 12pt; margin: 7mm 0 0; }
-  .ruled .line { border-bottom-color: #888; }
+  .ruled { flex: 1; display: flex; flex-direction: column; }
+  .ruled .line { flex: 1; border-bottom-color: #888; }
 </style>
 </head>
 <body>
@@ -28,15 +30,15 @@
 </div>
 
 <h2>1. Something I can do now that I couldn't before</h2>
-<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
 
 <h2>2. Something that was hard this week, and why it mattered</h2>
-<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
 
 <h2>3. What I'll try next week</h2>
-<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
 
 <h2>4. This week shows I'm someone who...</h2>
-<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
+<div class="ruled"><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div></div>
 </body>
 </html>
